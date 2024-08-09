@@ -1,0 +1,5 @@
+C:/Users/entre/OneDrive/Documentos/Unity Projects/iLikeit/Data-Sheet-Template/.utmp/RelWithDebInfo/726s34l6/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/entre/OneDrive/Documentos/Unity Projects/iLikeit/Data-Sheet-Template/.utmp/RelWithDebInfo/726s34l6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/entre/OneDrive/Documentos/Unity Projects/iLikeit/Data-Sheet-Template/.utmp/RelWithDebInfo/726s34l6/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/entre/OneDrive/Documentos/Unity Projects/iLikeit/Data-Sheet-Template/.utmp/RelWithDebInfo/726s34l6/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/entre/OneDrive/Documentos/Unity Projects/iLikeit/Data-Sheet-Template/.utmp/RelWithDebInfo/726s34l6/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
