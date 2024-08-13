@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7394ec7edc7e60a449315d0062a29a93
+guid: e074c14bc1ad53946978deeefa8e97b8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,12 +69,12 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
@@ -121,19 +121,50 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: T_MultiMaxLogo_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 316
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5249da8b31989e419d381eb7bcd06e1
+      internalID: -2136150921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 22fc4b2c2e786d9438f37870800ad26d
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_MultiMaxLogo_0: -2136150921
+      T_MultiMaxLogo_1: -529729447
+      T_MultiMaxLogo_2: -1006725780
+      T_MultiMaxLogo_3: -986497111
+      T_MultiMaxLogo_4: 1219750656
+      T_MultiMaxLogo_5: 1225329025
+      T_MultiMaxLogo_6: -994995504
+      T_MultiMaxLogo_7: -982101424
+      T_MultiMaxLogo_8: -1635339231
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
