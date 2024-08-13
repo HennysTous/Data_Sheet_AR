@@ -1,0 +1,2 @@
+D:\Hennys\Github\Data_Sheet_AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Hennys\Github\Data_Sheet_AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

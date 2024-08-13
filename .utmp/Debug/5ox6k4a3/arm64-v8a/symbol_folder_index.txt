@@ -1,0 +1,1 @@
+D:\Hennys\Github\Data_Sheet_AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\5ox6k4a3\obj\arm64-v8a
