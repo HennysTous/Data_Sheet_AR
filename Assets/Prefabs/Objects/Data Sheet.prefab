@@ -414,8 +414,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 683a7df6633580b458d5695c3f61efe5, type: 3}
-  m_Resource: {fileID: 8300000, guid: 683a7df6633580b458d5695c3f61efe5, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 799bac6b36ec36b4289246bde840797f, type: 3}
+  m_Resource: {fileID: 8300000, guid: 799bac6b36ec36b4289246bde840797f, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.7
   m_Pitch: 1
@@ -547,14 +547,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"shopURL","value":{"$content":"https://www.panafoto.com/refrigeradora-hisense-de-18-3-cu-ft-519-liters-2-doors-gray-look-led-lightning-manual-water-dispenser-multi-air-flow-no-frost-dimensions-910mm-x-643mm-x-1786mm-147720-4741.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL0","value":{"$content":"https://www.panafoto.com/smart-tv-32-fhd-vidaa-system-dvb-t-netflix-youtube-prime-video-disney-1-ano-de-garantia-152801-8130.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL1","value":{"$content":"https://www.panafoto.com/hisense-split-12btu-inverter-220v-60hz-r410a-tuberia-de-cobre-filtro-4-en-1-hi-nano-wifi-150970-5039.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL2","value":{"$content":"https://www.panafoto.com/rq16n6asi-147719.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL3","value":{"$content":"https://www.panafoto.com/lavadora-hisense-de-23-kg-negra-154021-9435.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL4","value":{"$content":"https://www.panafoto.com/hisense-estufa-a-gas-de-30-5-quemadores-acero-inox-parrila-de-hierro-fundido-encendido-facil-dispositivo-de-seguridad-contra-falla-de-llama-76-cms-x-51-cms-x-9-cms-147292-5265.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL5","value":{"$content":"https://www.panafoto.com/microonda-hisense-de-1-0-cu-ft-digital-control-8-auto-cooking-menus-gris-151742-6676.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL6","value":{"$content":"https://www.panafoto.com/horno-hisense-empotrable-a-gas-de-30-pulgadas-78-litros-digital-led-con-conveccion-151919-2715.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"shopURL","value":{"$content":"https://carbonestore.com/collections/total-tools/products/llave-impacto-dado-cuadrado-1-2-litio-20v-1","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL0","value":{"$content":"https://carbonestore.com/collections/total-tools/products/termometro-digital-rango-de-temperatura-humanos-32-c-42-9-c-pantalla-a-color-margen-error-0-3","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL1","value":{"$content":"https://carbonestore.com/collections/total-tools/products/pistola-spray-de-aire-para-pintar-capacidad-de-envase-800-ml-voltaje-110-120-v-50-60hz","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL2","value":{"$content":"https://carbonestore.com/collections/total-tools/products/hidrolavadora-110-60-htz-2200-psi-industrial1-ano","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL3","value":{"$content":"https://carbonestore.com/collections/total-tools/products/esmeril-angular-de-4-1-2-total-110v-120v-60hz-750w-5-8-11-unc-12000-rpm","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL4","value":{"$content":"https://carbonestore.com/collections/total-tools/products/botas-de-seguridad-total-de-alta-calidad-punta-de-acero-anticlavos-antiresbalante-1","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL5","value":{"$content":"https://carbonestore.com/collections/total-tools/products/modelo-mejorado-medidor-laser-rango-0-05-60mts-exactitud-2-0mm-620-690nm-1mw-ip54-baterias-aa","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL6","value":{"$content":"https://carbonestore.com/collections/total-tools/products/botas-de-seguridad-de-cuero-con-soporte-de-talon-tobillo-punta-de-acero","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &75502708315660801
@@ -751,8 +751,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: ee672d8a88d0efb438b8b4d135a6be22, type: 3}
-  m_Resource: {fileID: 8300000, guid: ee672d8a88d0efb438b8b4d135a6be22, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 860f30499a230324e839e33e512f1d5c, type: 3}
+  m_Resource: {fileID: 8300000, guid: 860f30499a230324e839e33e512f1d5c, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.7
   m_Pitch: 1
@@ -1153,7 +1153,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c75d41dc905648a44a0dcb7cd1e787cb, type: 3}
+  m_Sprite: {fileID: -1098675543, guid: 2fe4e3361dc539543b30f3334f92e155, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1356,9 +1356,9 @@ MonoBehaviour:
     - {fileID: 2556023001135764811}
     - {fileID: 106351890045947707}
     - {fileID: 5213142567510742275}
-    - {fileID: 21300000, guid: 0b51a021400d1cf4784ed007bc1703cf, type: 3}
-    - {fileID: 21300000, guid: e24e24ff2847f5b4aa586e4ad40f4a6a, type: 3}
-    - {fileID: 21300000, guid: 27221205c3c469942a097cbec38348b9, type: 3}
+    - {fileID: 1135163022, guid: d02be327033f7cf4e9a188c85f823c9d, type: 3}
+    - {fileID: 561588290, guid: 4266dec1bbe4fc14fb4313733099aa97, type: 3}
+    - {fileID: -485955169, guid: 71d6f6977b224eb44bb86e6c9c4b8654, type: 3}
 --- !u!114 &325961976643649924
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1440,7 +1440,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: $569.95
+  m_text: $49.99
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: af9159701e13616458a890e14bd64b66, type: 2}
   m_sharedMaterial: {fileID: -6478773205876199257, guid: af9159701e13616458a890e14bd64b66, type: 2}
@@ -3288,7 +3288,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c7f65cc2af630cf42a3e61684ec6f0c4, type: 3}
+  m_Sprite: {fileID: 986718088, guid: f1e22cb1515a1eb479a38370b0bf9048, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -3870,11 +3870,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'REFRIGERADORA
-
-    HISENSE SIDE BY
-
-    SIDE 18 P3'
+  m_text: Llave Impacto Dado Cuadrado 1/2" Litio 20V.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 806be09bc2b1ab3429afef7413d9fb20, type: 2}
   m_sharedMaterial: {fileID: 8425760978983137689, guid: 806be09bc2b1ab3429afef7413d9fb20, type: 2}
@@ -3907,7 +3903,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 17
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -3992,7 +3988,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5648362005590822215}
   - component: {fileID: 4930868598625986567}
-  - component: {fileID: 4689663636292403882}
+  - component: {fileID: 4594583767234576431}
   m_Layer: 5
   m_Name: Title
   m_TagString: Untagged
@@ -4008,7 +4004,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7912373839581325909}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4016,8 +4012,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.018749997, y: 0}
-  m_SizeDelta: {x: -0.05250001, y: 0}
+  m_AnchoredPosition: {x: 0.022, y: 0.00038}
+  m_SizeDelta: {x: -0.06262, y: -0.00684}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4930868598625986567
 CanvasRenderer:
@@ -4027,7 +4023,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7912373839581325909}
   m_CullTransparentMesh: 1
---- !u!114 &4689663636292403882
+--- !u!114 &4594583767234576431
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4036,10 +4032,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 7912373839581325909}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: 7f51082107b8d4e459888600700cd6f6, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -4047,77 +4043,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: PANAFOTO
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: af9159701e13616458a890e14bd64b66, type: 2}
-  m_sharedMaterial: {fileID: -6478773205876199257, guid: af9159701e13616458a890e14bd64b66, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 0.009
-  m_fontSizeBase: 0.009
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 3
-  m_HorizontalAlignment: 4
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+  m_Sprite: {fileID: -838522479, guid: c29c5e5f36a197c449fc4e0eec09ad12, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &8136429276541704934
 GameObject:
   m_ObjectHideFlags: 0
@@ -4183,8 +4118,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "GARANT\xCDA POR 2 A\xD1OS QUE INCLUYE PIEZAS Y SERVICIO T\xC9CNICO EN
-    TODO EL PA\xCDS"
+  m_text: "GARANT\xCDA POR 1 A\xD1O QUE INCLUYE PIEZAS Y SERVICIO T\xC9CNICO EN TODO
+    EL PA\xCDS"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c8b4392eff636f34ca7bdf81480967b8, type: 2}
   m_sharedMaterial: {fileID: 714199785879310165, guid: c8b4392eff636f34ca7bdf81480967b8, type: 2}
@@ -4530,8 +4465,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 1795885768143245681}
     m_Modifications:
     - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6313726
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Color.r
-      value: 0.6862745
+      value: 0.09411766
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Name
@@ -4540,12 +4483,14 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 3676cf311910bab4fb768d5c0075efcb, type: 3}
+      objectReference: {fileID: -591590391, guid: f1fe0d56addf06c44b606299571b864d, type: 3}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: 'HORNO EMPOTRABLE A GAS / 30"
-
-        MARCA HISENSE'
+      value: 'Botas De Seguridad De Cuero '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_fontStyle
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Pivot.x
@@ -4629,7 +4574,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8060730927332334173, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: $449.95
+      value: $32.61
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -5044,8 +4989,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 1795885768143245681}
     m_Modifications:
     - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6313726
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Color.r
-      value: 0.6862745
+      value: 0.09411766
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Name
@@ -5054,10 +5007,14 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 7394ec7edc7e60a449315d0062a29a93, type: 3}
+      objectReference: {fileID: -1646382984, guid: b11a16a6c425ae34faf3daa59f81b4e7, type: 3}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: "TELEVISOR HISENSE\n32\u2033 SMART TV"
+      value: "Termometro Digital 10\xB0C~40\xB0C "
+      objectReference: {fileID: 0}
+    - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_fontStyle
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Pivot.x
@@ -5141,7 +5098,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8060730927332334173, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: $109.95
+      value: $29.17
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -5195,8 +5152,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 1795885768143245681}
     m_Modifications:
     - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6313726
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Color.r
-      value: 0.6862745
+      value: 0.09411766
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Name
@@ -5205,10 +5170,14 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: b712ef09b92c327459dbd1620536788c, type: 3}
+      objectReference: {fileID: 1219317764, guid: 48c3b387ffadf3844985b78c378663e1, type: 3}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: REFRIGERADORA CROSS DOOR HISENSE 16 P3
+      value: Hidrolavadora 110/60 Htz 2200 PSI
+      objectReference: {fileID: 0}
+    - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_fontStyle
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_characterSpacing
@@ -5296,7 +5265,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8060730927332334173, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: $649.95
+      value: $98.99
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -5733,8 +5702,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 1795885768143245681}
     m_Modifications:
     - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6313726
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Color.r
-      value: 0.6862745
+      value: 0.09411766
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Name
@@ -5743,10 +5720,14 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4451975fd10059948bdd2fabd50f10d4, type: 3}
+      objectReference: {fileID: 308640936, guid: 77fab61c00bcfdd49a631f2f12cbb8dc, type: 3}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: "MICROONDAS HISENSE DE 1.0P3\nCONTROL T\xC1CTIL"
+      value: Medidor Laser Rango 0.05-60Mts
+      objectReference: {fileID: 0}
+    - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_fontStyle
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Pivot.x
@@ -5830,7 +5811,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8060730927332334173, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: $119.95
+      value: $44.01
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -6296,15 +6277,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3364269164838187395, guid: eb943a5ad26a10e4a9f22b712f382682, type: 3}
       propertyPath: m_text
-      value: "CONSUMO ENERG\xC9TICO"
+      value: DURACION DE LA BATERIA
       objectReference: {fileID: 0}
     - target: {fileID: 3364269164838187395, guid: eb943a5ad26a10e4a9f22b712f382682, type: 3}
       propertyPath: m_fontSize
-      value: 0.0075
+      value: 0.007
       objectReference: {fileID: 0}
     - target: {fileID: 3364269164838187395, guid: eb943a5ad26a10e4a9f22b712f382682, type: 3}
       propertyPath: m_fontSizeBase
-      value: 0.0075
+      value: 0.007
       objectReference: {fileID: 0}
     - target: {fileID: 7589471841035044460, guid: eb943a5ad26a10e4a9f22b712f382682, type: 3}
       propertyPath: m_Name
@@ -6492,8 +6473,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 1795885768143245681}
     m_Modifications:
     - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6313726
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Color.r
-      value: 0.6862745
+      value: 0.09411766
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Name
@@ -6502,12 +6491,14 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2da12d8cec32ec741b1129c1e1dab13a, type: 3}
+      objectReference: {fileID: -880024320, guid: 511fbe0f7f4bcbd489b526de8098c14a, type: 3}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: 'LAVADORA DE CARGA FRONTAL HISENSE
-
-        23 KG'
+      value: Esmeril Angular De 4 1/2" Total 110V-120V
+      objectReference: {fileID: 0}
+    - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_fontStyle
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Pivot.x
@@ -6591,7 +6582,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8060730927332334173, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: $429.95
+      value: $26.09
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -6645,8 +6636,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 1795885768143245681}
     m_Modifications:
     - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6313726
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Color.r
-      value: 0.6862745
+      value: 0.09411766
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Name
@@ -6655,12 +6654,14 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2becbf2055079674495211c119687ef2, type: 3}
+      objectReference: {fileID: -1522795682, guid: 78123c7727f832d43acf200b9c8d7e3f, type: 3}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: 'ESTUFA A GAS HISENSE DE 30"
-
-        5 QUEMADORES'
+      value: 'Zapatillas De Seguridad TOTAL '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_fontStyle
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Pivot.x
@@ -6744,7 +6745,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8060730927332334173, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: $169.95
+      value: $24.55
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -7019,8 +7020,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 1795885768143245681}
     m_Modifications:
     - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6313726
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 756728975710266487, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Color.r
-      value: 0.6862745
+      value: 0.09411766
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Name
@@ -7029,12 +7038,14 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 5416e8cc53f328442925d4d8cf8b1e16, type: 3}
+      objectReference: {fileID: -581932600, guid: 69abe60375918b84ebb0364d635b9a77, type: 3}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: 'AIRE ACONDICIONADO SPLIT HISENSE
-
-        12.000 BTU'
+      value: Pistola Spray Para Pintar 800ML
+      objectReference: {fileID: 0}
+    - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_fontStyle
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_characterSpacing
@@ -7122,7 +7133,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8060730927332334173, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: $439.95
+      value: $25.49
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size

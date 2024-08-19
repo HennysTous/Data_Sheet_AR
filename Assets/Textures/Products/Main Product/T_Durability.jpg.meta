@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e24e24ff2847f5b4aa586e4ad40f4a6a
+guid: 71d6f6977b224eb44bb86e6c9c4b8654
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,12 +69,12 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
@@ -121,19 +121,42 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: T_Durability_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 500
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f7ad1668ef5b4d81b31e9455ad73c
+      internalID: -485955169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: c91f929a581b81b4dbb1d9b9e5d90dbb
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Durability_0: -485955169
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

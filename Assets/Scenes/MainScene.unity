@@ -289,18 +289,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _id: 2badac61-549c-4871-81ee-5ee09db482c0
-  name: "Electrodom\xE9sticos Panafoto"
-  description: "Cat\xE1logo de electrodom\xE9sticos de la marca Panafoto"
+  name: Herramientas Total
+  description: "Cat\xE1logo de Herramientas de la marca Total"
   version: 
   isAd: 1
   isHidden: 0
   tags:
-  - Panafoto
+  - Total
   - iLikeit
   - Image
   - Tracking
-  - Electrodomesticos
-  - Hogar
+  - Herramientas
+  - Trabajo
   maxPlayerCount: 1
   minPlayAreaSize:
     m_Center: {x: 0, y: 0.5, z: 0}

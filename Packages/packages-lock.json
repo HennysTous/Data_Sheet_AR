@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.unity.2d.sprite": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.0",
       "depth": 0,
@@ -323,10 +329,10 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "xr.ilikeit.utilities": "1.4.4",
         "xr.ilikeit.api": "0.4.0",
-        "com.unity.xr.arfoundation": "6.0.1",
+        "xr.ilikeit.utilities": "1.4.4",
         "com.unity.visualscripting": "1.9.1",
+        "com.unity.xr.arfoundation": "6.0.1",
         "com.unity.netcode.gameobjects": "1.8.1"
       },
       "url": "http://registry.npmjs.org"

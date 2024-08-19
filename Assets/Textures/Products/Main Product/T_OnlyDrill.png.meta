@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8efbf018206b72a40ac68e498aa8fd37
+guid: f1e22cb1515a1eb479a38370b0bf9048
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -74,7 +74,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
@@ -121,19 +121,43 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: T_OnlyDrill_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 857
+        height: 1347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fa7a87ebb0f2a44bfbb52533107dc5
+      internalID: 986718088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 911a81084b675164da25bdafb17ceb8c
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_OnlyDrill_0: 1987797584
+      T_OnlyDrill_1: 986718088
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
