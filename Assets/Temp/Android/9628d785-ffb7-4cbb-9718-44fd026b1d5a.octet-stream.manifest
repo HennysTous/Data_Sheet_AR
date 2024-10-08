@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.4f1
+CRC: 785021364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d973572a7ee1710c73cd5f0275c1166
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd8ecc8734b34c7f9021d1e8b4b6750c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bc23ad09539bc7eeb9b635dadd860c76
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f7f9de3544fb654ebc15fdb62720ff9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 765181c9ef4b24d32a4f7cbd2ef370dc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Ilikeit.Creator
+  ClassName: Ilikeit.AR.ARImageTrackingManager/ImageTrackingData
+- AssemblyName: Unity.VisualScripting.Core
+  ClassName: Unity.VisualScripting.SerializationData
+Assets:
+- Assets/Temp/9628d785-ffb7-4cbb-9718-44fd026b1d5a.prefab
+Dependencies: []
