@@ -272,134 +272,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   imageTrackingData:
-  - imageName: TvHisense50
-    texture: {fileID: 2800000, guid: e0eec5380cdf1e84a9434dbadbb5c3ce, type: 3}
-    width: 0.1
-    prefab: {fileID: 5864673284648365977, guid: 7fa619ae97d42f04d96f6a6c9de82f74, type: 3}
-  - imageName: TvHisense55
-    texture: {fileID: 2800000, guid: 34ac5ff72df0b214aaaba23896857c0d, type: 3}
-    width: 0.1
-    prefab: {fileID: 5864673284648365977, guid: 0c526b472a3a3e54bb87dbf039bdae47, type: 3}
   - imageName: TvHisense70
     texture: {fileID: 2800000, guid: 933d751a12ddad14f8b8a0fb5829148e, type: 3}
     width: 0.1
     prefab: {fileID: 5864673284648365977, guid: 7d7f6f9d5be17b944a874e085f05f3e9, type: 3}
-  - imageName: TvHisense75
-    texture: {fileID: 2800000, guid: 6b6d454dc7818174bb379431a9086722, type: 3}
-    width: 0.1
-    prefab: {fileID: 5864673284648365977, guid: 94ab75d273d0cc7469858dd76d2deda8, type: 3}
   - imageName: TvHisense85
     texture: {fileID: 2800000, guid: c03e576d934851249a667bdf69a5dbe3, type: 3}
     width: 0.1
     prefab: {fileID: 5864673284648365977, guid: b003a879fce32604d9322d0f82cc0523, type: 3}
-  - imageName: O_SonyBarraSonido512
-    texture: {fileID: 2800000, guid: 77a839f81eb412e4c969e781f6af3157, type: 3}
-    width: 0.1
-    prefab: {fileID: 2270629465773034900, guid: c64b55cb1ede29b4a86e8401a7f4045c, type: 3}
-  - imageName: O_SonyInZoneBuds
-    texture: {fileID: 2800000, guid: 7f0445e384039e84ebd0b70116003367, type: 3}
-    width: 0.1
-    prefab: {fileID: 636495074050587597, guid: b702a4bef8f511c45be02a606316f455, type: 3}
-  - imageName: O_SonyInZoneH9
-    texture: {fileID: 2800000, guid: 991ba10ed3002bb49808459aebc7f6b0, type: 3}
-    width: 0.1
-    prefab: {fileID: 522866006527097793, guid: ed9d05c904134274cada326aca4822c5, type: 3}
-  - imageName: O_SonySRS-XV800
-    texture: {fileID: 2800000, guid: b950568cc4f9fd245bfe5b25c0e0c21c, type: 3}
-    width: 0.1
-    prefab: {fileID: 7121026844658415140, guid: 7a2f155edf883384399ade1f9568a6c5, type: 3}
-  - imageName: O_SonyTV85GoogleTV
-    texture: {fileID: 2800000, guid: 4bbf7383bb18ea543bd3ec6f3efbc827, type: 3}
-    width: 0.1
-    prefab: {fileID: 3459253304300219804, guid: a7880ce7632b0fa4094820a66523cd24, type: 3}
-  - imageName: O_SonyTV85UHDX1
-    texture: {fileID: 2800000, guid: d4caad17e836f5e46a9eec6a82f4970d, type: 3}
-    width: 0.1
-    prefab: {fileID: 8358615829071295702, guid: 08faf812f5747124189c7a4954f833df, type: 3}
-  - imageName: O_SonyTV754KFullArray
-    texture: {fileID: 2800000, guid: fa6834ae0814cff4ea25fc1100b31927, type: 3}
-    width: 0.1
-    prefab: {fileID: 116894845298665717, guid: 863e5924b68a2754d9e3954953e9e353, type: 3}
-  - imageName: O_JBLBarraDeSonido2.1Canales
-    texture: {fileID: 2800000, guid: 93d77cc6ae9ad8740b0c1d9d4a728f46, type: 3}
-    width: 0.1
-    prefab: {fileID: 4759236961260068778, guid: 8f0926705434f2c40bbcf5c15ec6ffc9, type: 3}
-  - imageName: O_JBLCinema SB190
-    texture: {fileID: 2800000, guid: b89931872d355d642bf6184da0c3dab8, type: 3}
-    width: 0.1
-    prefab: {fileID: 8032057904251310120, guid: 5b91278135328b141b13bc1bee9fc79e, type: 3}
-  - imageName: O_JBLPartyBox110
-    texture: {fileID: 2800000, guid: 5efba9940d80dcc4eb40b2180460712c, type: 3}
-    width: 0.1
-    prefab: {fileID: 3981071676414186579, guid: 7806dbd8926861143b091d2464230316, type: 3}
-  - imageName: O_JBLVibeBeam
-    texture: {fileID: 2800000, guid: a2b75dc1658579f4cb43fe4384c1d021, type: 3}
-    width: 0.1
-    prefab: {fileID: 8608755831195544497, guid: a4a344b637888be4b91a467434fcf55c, type: 3}
-  - imageName: O_JBLPartyBoxUltimate
-    texture: {fileID: 2800000, guid: 5637099396cedb84b91f12b5f4e0697e, type: 3}
-    width: 0.1
-    prefab: {fileID: 3981071676414186579, guid: 35ab6c6f1e12b6f439de46a672bad84c, type: 3}
   - imageName: O_LGBarraSonido160W
     texture: {fileID: 2800000, guid: e531bda3847b0074d9c22fe24487e279, type: 3}
     width: 0.1
     prefab: {fileID: 5538433988997652978, guid: 0443a5026f98de6458a0d39e79aae0fc, type: 3}
-  - imageName: O_LGBarraSonido440W
-    texture: {fileID: 2800000, guid: 750eec67f05fea3498f61eba41734ef9, type: 3}
-    width: 0.1
-    prefab: {fileID: 738384683708341217, guid: 1977de13587208e4e8029f7f666d1632, type: 3}
-  - imageName: O_LGBarraSonidoSH7Q
-    texture: {fileID: 2800000, guid: c3067b35142a07347a244d6ecc541799, type: 3}
-    width: 0.1
-    prefab: {fileID: 1194816755290300178, guid: 1e9c9f6a797f68c4da30f4efb1b2e3ae, type: 3}
-  - imageName: O_LGBarraSonidoS80QY
-    texture: {fileID: 2800000, guid: cb4fba8df9f8286408b12fa99a9aff88, type: 3}
-    width: 0.1
-    prefab: {fileID: 5538433988997652978, guid: 3d22d66895deaef4cb559efa06ad713b, type: 3}
   - imageName: O_LGTV504KUHD
     texture: {fileID: 2800000, guid: a7e5bf18f4662ab4e961ab8ee9b3251b, type: 3}
     width: 0.1
     prefab: {fileID: 2137304164432314862, guid: 3334c39173b3c4348bc789b8adc333d6, type: 3}
-  - imageName: O_LGTVevo48Smart
-    texture: {fileID: 2800000, guid: cb869b9743437964393d7814caa07db6, type: 3}
-    width: 0.1
-    prefab: {fileID: 7387856371878923767, guid: 2416b8e7d7ab10e4aaced120bdedd177, type: 3}
-  - imageName: O_LGTVQNED65
-    texture: {fileID: 2800000, guid: 5c5738715b800c644816273158fa829b, type: 3}
-    width: 0.1
-    prefab: {fileID: 3625342951615241258, guid: 0fedba25d0596ca4491c50f83f29ae46, type: 3}
-  - imageName: 'O_LGXBOOMCK99 '
-    texture: {fileID: 2800000, guid: c8181a99b2189644095501cfe7f65475, type: 3}
-    width: 0.1
-    prefab: {fileID: 8955750379622701031, guid: e06a4892dabf2ad4481deaa6d7b78694, type: 3}
-  - imageName: O_Samsung160WRMS
-    texture: {fileID: 2800000, guid: e4cd0ceddbbad274b8cf73cbd641fefd, type: 3}
-    width: 0.1
-    prefab: {fileID: 2936504427362411022, guid: a2620c66c30f63d429753bfc0b27b0bf, type: 3}
   - imageName: O_SamsungCrystalUHD50
     texture: {fileID: 2800000, guid: 0a411a16bd6c7ef478a2d4d8806859bf, type: 3}
     width: 0.1
     prefab: {fileID: 1380551815616039762, guid: 32264da892e19dd40820bad0c9228b8c, type: 3}
-  - imageName: O_SamsungCrystalUHD65
-    texture: {fileID: 2800000, guid: 6229e7ccf7b4b57438d049fdf7d352d7, type: 3}
-    width: 0.1
-    prefab: {fileID: 4735744364730231230, guid: 6a7c64ba492dfba46b614922529f278e, type: 3}
-  - imageName: O_SamsungTVOLED77S90D
-    texture: {fileID: 2800000, guid: 7916e91e49108ed47be2625f719113be, type: 3}
-    width: 0.1
-    prefab: {fileID: 1380551815616039762, guid: 980b1db560882d440a3c66cc4210f144, type: 3}
-  - imageName: O_SamsungTVQLED75Q60D
-    texture: {fileID: 2800000, guid: ede0149099567cd418d16baa81fa299e, type: 3}
-    width: 0.1
-    prefab: {fileID: 1380551815616039762, guid: 006e260f5aa54ff4197d9f80e3fb0cf8, type: 3}
   - imageName: O_SamsungGalaxyBuds3
     texture: {fileID: 2800000, guid: 1ff9d53af916aa049842bd40d11f7e22, type: 3}
     width: 0.1
     prefab: {fileID: 7981150082245380279, guid: ad9f123790b5808489050043f6e48ab6, type: 3}
-  - imageName: O_SamsungGalaxyFlip5
-    texture: {fileID: 2800000, guid: bf8f1086fdff13a4797265120b1208d2, type: 3}
-    width: 0.1
-    prefab: {fileID: 5460911014752945795, guid: 8c13889a8e0a42b4e909533bbf4bf920, type: 3}
   - imageName: O_SamsungGalaxyTabS9
     texture: {fileID: 2800000, guid: 51e6d6ed19e045642a8858c40f36fcb7, type: 3}
     width: 0.1
@@ -408,14 +304,6 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: eecebb212b4a97e4790d1e76c5573685, type: 3}
     width: 0.1
     prefab: {fileID: 5164840370985317726, guid: c9abbb650b976c041a6045be4d3ca9ec, type: 3}
-  - imageName: O_SamsungGalaxyZFold6
-    texture: {fileID: 2800000, guid: 03a2d0a91933b6b44ab411ee4ed6d676, type: 3}
-    width: 0.1
-    prefab: {fileID: 7289604250790891528, guid: 72760c0bb19fe1d40806aaae8ae21d8d, type: 3}
-  - imageName: O_SamsungHWQ700D
-    texture: {fileID: 2800000, guid: 5064a4bd67e17034a9ff9bb06cd01f27, type: 3}
-    width: 0.1
-    prefab: {fileID: 272296117247774296, guid: 8751146e78237664086b3b8794c46ac0, type: 3}
   - imageName: O_SamsungTheFrame
     texture: {fileID: 2800000, guid: 530b63a2b4545844d97461014d79bd2b, type: 3}
     width: 0.1
@@ -424,38 +312,46 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: 1b97edd8569ff924d84243087e380fbc, type: 3}
     width: 0.1
     prefab: {fileID: 5374303088381108265, guid: f8b6937237c2dc34ba8b09f813bea929, type: 3}
-  - imageName: O_ULTTorreConSonido360
-    texture: {fileID: 2800000, guid: b4a42185fcbda43499a24a0c12710481, type: 3}
-    width: 0.1
-    prefab: {fileID: 1860847078297374692, guid: 113074ac1e3285f43b5d455a80ed37e7, type: 3}
-  - imageName: O_Honor90Lite
-    texture: {fileID: 2800000, guid: c0dba39cf9da2da418ef3d34fd21ac0e, type: 3}
-    width: 0.1
-    prefab: {fileID: 4419387841101025134, guid: 790645bd8fa88a740834fe36c104c909, type: 3}
-  - imageName: O_HonorMagic6Lite
-    texture: {fileID: 2800000, guid: e965fec4975ab2147a6eb066ad808b5a, type: 3}
-    width: 0.1
-    prefab: {fileID: 177000973832518616, guid: cc6727ef4c24cb74584a804a5c9f390f, type: 3}
   - imageName: O_HonorPad9
     texture: {fileID: 2800000, guid: 9e409256bd203d54ebab5687aa3e70cf, type: 3}
     width: 0.1
     prefab: {fileID: 8730915908262201831, guid: 1d17e1ee3af14594085ea0d54bcb6ad8, type: 3}
-  - imageName: O_HonorPadX9
-    texture: {fileID: 2800000, guid: 3a233f4433c659c408a0f2b5f1fb5052, type: 3}
-    width: 0.1
-    prefab: {fileID: 6920495067069653203, guid: cbbfe7c7fea28624684b5d2941e01251, type: 3}
-  - imageName: O_IPadPro12.9
-    texture: {fileID: 2800000, guid: bb43ee16bc5cb6443b12eaaa90d8596b, type: 3}
-    width: 0.1
-    prefab: {fileID: 2454146414723596760, guid: ec1af9c4fb9a94246995806b934d08dc, type: 3}
-  - imageName: O_IPhone15
-    texture: {fileID: 2800000, guid: 1403af39d4242e24b9123ff6e8deb480, type: 3}
-    width: 0.1
-    prefab: {fileID: 1862445344243738179, guid: 2c4eb123efa96f4459d8c260d4b607f2, type: 3}
   - imageName: O_IPhone15ProMax
     texture: {fileID: 2800000, guid: 42bf5bcd0bece3946a00c9c3a050cb66, type: 3}
     width: 0.1
     prefab: {fileID: 6807170864666460911, guid: 1b5e08fcd5623aa40b898327fd622c74, type: 3}
+  - imageName: O_Honor200
+    texture: {fileID: 2800000, guid: 9aa5ce6600a3612408fa149011167c99, type: 3}
+    width: 0.1
+    prefab: {fileID: 8730915908262201831, guid: 68dd5cfe8d54a484d8408f9f57eb5186, type: 3}
+  - imageName: O_Honor200Lite
+    texture: {fileID: 2800000, guid: def19a3f2247199489226a45c50d10c0, type: 3}
+    width: 0.1
+    prefab: {fileID: 8730915908262201831, guid: 4295d7da7b9ea7646a3c0297cde093fd, type: 3}
+  - imageName: O_Honor200Pro
+    texture: {fileID: 2800000, guid: 55d3073a659c5ac48a976753935f360c, type: 3}
+    width: 0.1
+    prefab: {fileID: 8730915908262201831, guid: 8bf89d4df6d21654cb0bd6feef702269, type: 3}
+  - imageName: O_Insta360Ace 8kPro
+    texture: {fileID: 2800000, guid: 34588a1d0d16fe54f830127041c9b40c, type: 3}
+    width: 0.1
+    prefab: {fileID: 8730915908262201831, guid: c7d6bd0927e607944bf2825bd9eb907e, type: 3}
+  - imageName: O_Insta360GO306
+    texture: {fileID: 2800000, guid: 17cef445c6f4ae041aafb4723aeddd89, type: 3}
+    width: 0.1
+    prefab: {fileID: 8730915908262201831, guid: 0be4d972a959e15448d37f24242ba4a1, type: 3}
+  - imageName: O_Insta360GO315
+    texture: {fileID: 2800000, guid: be6b20897712621458fdbbe07ef49ec1, type: 3}
+    width: 0.1
+    prefab: {fileID: 8730915908262201831, guid: a46c6d747698dfa4c99d7e865b57d22b, type: 3}
+  - imageName: O_Insta360X3
+    texture: {fileID: 2800000, guid: 6fe9540d58406244899dee8bb9d02925, type: 3}
+    width: 0.1
+    prefab: {fileID: 8730915908262201831, guid: 03894bb91ac3d584e8635b61e790afc1, type: 3}
+  - imageName: O_Insta360X4
+    texture: {fileID: 2800000, guid: 5102d16b27905e3499f92ec3068266e7, type: 3}
+    width: 0.1
+    prefab: {fileID: 8730915908262201831, guid: 42e29d7bb084ded4394fa5245202185b, type: 3}
 --- !u!114 &160534324
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -503,6 +399,98 @@ MonoBehaviour:
   - {fileID: 1145225041}
   - {fileID: 1589407539}
   - {fileID: 365765200}
+  achievementList:
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: 68ea7faa-5f1f-488c-966c-11bfc046bebc
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/1d56afb21c98d62606a7ba6674a44a26.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: 6300c8d5-e567-4857-b42f-93f5c1f96cc1
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/1d56afb21c98d62606a7ba6674a44a26.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: 37453c76-2aeb-42ea-baca-b7226970feb9
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/1d56afb21c98d62606a7ba6674a44a26.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: 25703640-0b08-4a47-9ab9-bea65b2bad05
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/1d56afb21c98d62606a7ba6674a44a26.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: 8729e645-161f-49eb-ab19-cdc041e8fd4c
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience "
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/1d56afb21c98d62606a7ba6674a44a26.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: 5631ddca-83e2-4611-9ddc-444dad2d403a
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/3453166165482e22ea5b105eb21a80c0.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: dfbd1fdc-9947-4cb0-970b-7026caf48700
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/3453166165482e22ea5b105eb21a80c0.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: 17c72eee-e0c7-4f2a-abf2-26c5df712380
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/3453166165482e22ea5b105eb21a80c0.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: b4c024f1-4a6b-40e3-af1b-9528e36a1591
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/3453166165482e22ea5b105eb21a80c0.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: db5ff27d-c38a-4084-ac05-221a1448482e
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/3453166165482e22ea5b105eb21a80c0.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: b01ff26a-edb5-4726-a155-02cf02e955a2
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/3453166165482e22ea5b105eb21a80c0.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: 39ef140d-9ca1-4817-9278-d8b2c454a214
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/3453166165482e22ea5b105eb21a80c0.png
+  - description: Felicidades, has obtenido un pop por interactuar con un producto
+      Retail Xperience de iLikeit.
+    id: 204f6ee5-555c-40c5-a770-c75f426fc6e0
+    invokedExperienceId: 2badac61-549c-4871-81ee-5ee09db482c0
+    name: "Interacci\xF3n con Retail Xperience"
+    pops: 1
+    thumbnailPath: https://codebrew-staging.s3.us-east-1.amazonaws.com/thumbnails/3453166165482e22ea5b105eb21a80c0.png
   _debugSize: 0.5
 --- !u!1 &234415000
 GameObject:

@@ -98,7 +98,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8edaae0e6c46e4f4da2612fd6f1d2f4b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 25068b8e4f361ea4383344b67c416868, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -150,8 +150,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: cc0012a8ac3e0324bbdc61d996019b6f, type: 3}
-  m_Resource: {fileID: 8300000, guid: cc0012a8ac3e0324bbdc61d996019b6f, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 9b4ad20cbc0d21a4b9a12af8ef0acae5, type: 3}
+  m_Resource: {fileID: 8300000, guid: 9b4ad20cbc0d21a4b9a12af8ef0acae5, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.7
   m_Pitch: 1
@@ -1136,11 +1136,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"shopURL","value":{"$content":"https://www.panafoto.com/honor-pad9-android-13-8gbram-cam-13-8mp-pantalla-12-1-bat-8300mah-incluye-book-cover-lapiz-154273-6064.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL0","value":{"$content":"https://www.panafoto.com/honor-90-lite-256gb-8gbram-5gb-virtual-plateado-152498-4698.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL1","value":{"$content":"https://www.panafoto.com/honor-magic-6lite-plata-8gb-ram-256gb6-78-120hz-bat-5800mah-154325-2297.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"shopURL","value":{"$content":"https://www.panafoto.com/honor200-android-14-magicos-8-12gb-ram-256gb-cam50-4k-pantalla-6-7-rosado-155147-9882.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL0","value":{"$content":"https://www.panafoto.com/honor200-android-14-magicos-8-12gb-ram-256gb-cam50-4k-pantalla-6-7-rosado-155147-9882.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL1","value":{"$content":"https://www.panafoto.com/honor-200pro-android-14-magicos-8-12gb-ram-512gb-cam50-4k-pantalla-ip65-verde-155150-2975.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL2","value":{"$content":"https://www.panafoto.com/honor-pad9-android-13-8gbram-cam-13-8mp-pantalla-12-1-bat-8300mah-incluye-book-cover-lapiz-154273-6064.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL3","value":{"$content":"https://www.panafoto.com/tableta-pad-x9-gris-lte-magicos-7-1-android-13-octa-core-4gb-ram-128gb-cam5-5mp-pantalla-11-5-bat-7250mah-152950-5811.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL3","value":{"$content":"https://www.panafoto.com/honor-200lite-azul-android-14-magicos-8-8-core-2x24-6x2-0-ghz-8gbram-256gb-cam-108-f1-8-5-2-50mp-fhd-pantalla-6-7-bat-4500w-35w-154793-4030.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL4","value":{"$content":"","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL5","value":{"$content":"","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL6","value":{"$content":"","$type":"System.String"},"typeHandle":{"Identification":"System.String,
@@ -1952,8 +1952,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 1c892f1d8c1e42548ba1fd788897f098, type: 3}
-  m_Resource: {fileID: 8300000, guid: 1c892f1d8c1e42548ba1fd788897f098, type: 3}
+  m_audioClip: {fileID: 8300000, guid: bdbd65c0156ec51459ce0e6a9de8f244, type: 3}
+  m_Resource: {fileID: 8300000, guid: bdbd65c0156ec51459ce0e6a9de8f244, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.7
   m_Pitch: 1
@@ -2373,8 +2373,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 6ad30eebc2f20e543bf17a39a6380bf1, type: 3}
-  m_Resource: {fileID: 8300000, guid: 6ad30eebc2f20e543bf17a39a6380bf1, type: 3}
+  m_audioClip: {fileID: 8300000, guid: cfebe317845f9fe4c8a7aaae59e903a0, type: 3}
+  m_Resource: {fileID: 8300000, guid: cfebe317845f9fe4c8a7aaae59e903a0, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.7
   m_Pitch: 1
@@ -2864,8 +2864,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: ebb1e4ce32d908b41b6552c2969b3350, type: 3}
-  m_Resource: {fileID: 8300000, guid: ebb1e4ce32d908b41b6552c2969b3350, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 295929c7370c6f241ad7cb0e0ecddb54, type: 3}
+  m_Resource: {fileID: 8300000, guid: 295929c7370c6f241ad7cb0e0ecddb54, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.7
   m_Pitch: 1
@@ -3310,9 +3310,9 @@ MonoBehaviour:
     - {fileID: 796530275526112814}
     - {fileID: 2828937615351906159}
     - {fileID: 4069759065633234223}
-    - {fileID: 21300000, guid: 73dd7449d1b75a74ab6c24e68b266799, type: 3}
-    - {fileID: 21300000, guid: 7567ddedd975b2947b6ba8a9975c2547, type: 3}
-    - {fileID: 21300000, guid: 49f8ce056097d544dab98a6b13f37edd, type: 3}
+    - {fileID: 21300000, guid: 38bf38791eda27744a047900e66a683c, type: 3}
+    - {fileID: 21300000, guid: 7c10e4a8a0fbecd419a7391f1b573f1e, type: 3}
+    - {fileID: 21300000, guid: 973905dcd01271f449ef1720331ab654, type: 3}
 --- !u!114 &6147891799269997977
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3500,7 +3500,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0ada548d6272abf40b4be94a548bef1f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 88384fe875635474e88db466d1140cd9, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -3891,7 +3891,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Honor Pad 9
+  m_text: Honor 200 5G
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 806be09bc2b1ab3429afef7413d9fb20, type: 2}
   m_sharedMaterial: {fileID: 8425760978983137689, guid: 806be09bc2b1ab3429afef7413d9fb20, type: 2}
@@ -4842,10 +4842,10 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 7c04dd3b0bb35ad4898bd8654d27ecfa, type: 3}
+      objectReference: {fileID: 21300000, guid: 4c23a83466ac4604c93bbe9b59192488, type: 3}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: Honor PAD X9 Gris
+      value: Honor 200 Lite
       objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_fontStyle
@@ -5882,19 +5882,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 55678025f61e6394c9e9702d2c7db19d, type: 3}
+      objectReference: {fileID: 21300000, guid: 88384fe875635474e88db466d1140cd9, type: 3}
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_PreserveAspect
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: Honor 90 Lite
+      value: Honor 200
       objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_fontStyle
@@ -7285,7 +7285,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
@@ -7317,7 +7317,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_AnchorMin.x
@@ -7325,7 +7325,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_SizeDelta.x
@@ -7365,11 +7365,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -0.044999998
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -7453,7 +7453,7 @@ PrefabInstance:
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"popSFX","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
         UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"microBubbles","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.ParticleSystem,
         UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"textAnimator","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
-        UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"AchievementID","value":{"$content":"39ef140d-9ca1-4817-9278-d8b2c454a214","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"AchievementID","value":{"$content":"5d8bd502-c961-4f96-ba73-56c11149b749","$type":"System.String"},"typeHandle":{"Identification":"System.String,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 4362277214041894839, guid: d72dd6af2a086034b997acabea09f709, type: 3}
@@ -7545,10 +7545,10 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 01dbe744b3504a84db864215989162af, type: 3}
+      objectReference: {fileID: 21300000, guid: d8c943ab8e2d82c4fb70d9f6bb631e92, type: 3}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
-      value: Honor Magic 6 Lite
+      value: Honor 200 Pro
       objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_fontStyle
@@ -7624,7 +7624,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.044999998
+      value: -0.015
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

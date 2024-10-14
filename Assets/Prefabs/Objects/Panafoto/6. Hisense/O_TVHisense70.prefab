@@ -17,7 +17,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &4023297328670333482
 RectTransform:
   m_ObjectHideFlags: 0
@@ -548,10 +548,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"shopURL","value":{"$content":"https://www.panafoto.com/70-class-a6-series-led-4k-uhd-google-os-150809-8084.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL0","value":{"$content":"https://www.panafoto.com/hisense-led-de-50-4k-smart-uhd-sistema-operativo-vidaa-2-anos-de-garantia-151626-4337.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL1","value":{"$content":"https://www.panafoto.com/televisor-hisense-uhd-tv-55-vidaa-a6kv-152806-9995.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL0","value":{"$content":"","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL1","value":{"$content":"","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL2","value":{"$content":"","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL3","value":{"$content":"https://www.panafoto.com/uhd-smart-google-system-atsc-bt-netflix-youtube-disney-google-assistant-148450-3472.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL3","value":{"$content":"","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL4","value":{"$content":"https://www.panafoto.com/hisense-tv-de-85-qled-smart-4k-google-2-anos-de-garantia-153509-8506.html","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL5","value":{"$content":"","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"productURL6","value":{"$content":"","$type":"System.String"},"typeHandle":{"Identification":"System.String,
@@ -1930,7 +1930,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0.12}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1451728064474261126
 MonoBehaviour:
@@ -5062,7 +5062,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
@@ -6841,6 +6841,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Other Products Button (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -6919,7 +6923,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.105
+      value: -0.015
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
