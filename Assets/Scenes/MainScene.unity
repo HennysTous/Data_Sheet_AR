@@ -271,87 +271,169 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f7f9de3544fb654ebc15fdb62720ff9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imageTrackingData:
-  - imageName: TvHisense70
-    texture: {fileID: 2800000, guid: 933d751a12ddad14f8b8a0fb5829148e, type: 3}
-    width: 0.1
-    prefab: {fileID: 5864673284648365977, guid: 7d7f6f9d5be17b944a874e085f05f3e9, type: 3}
-  - imageName: TvHisense85
-    texture: {fileID: 2800000, guid: c03e576d934851249a667bdf69a5dbe3, type: 3}
-    width: 0.1
-    prefab: {fileID: 5864673284648365977, guid: b003a879fce32604d9322d0f82cc0523, type: 3}
-  - imageName: O_LGBarraSonido160W
-    texture: {fileID: 2800000, guid: e531bda3847b0074d9c22fe24487e279, type: 3}
-    width: 0.1
-    prefab: {fileID: 5538433988997652978, guid: 0443a5026f98de6458a0d39e79aae0fc, type: 3}
-  - imageName: O_LGTV504KUHD
-    texture: {fileID: 2800000, guid: a7e5bf18f4662ab4e961ab8ee9b3251b, type: 3}
-    width: 0.1
-    prefab: {fileID: 2137304164432314862, guid: 3334c39173b3c4348bc789b8adc333d6, type: 3}
-  - imageName: O_SamsungCrystalUHD50
-    texture: {fileID: 2800000, guid: 0a411a16bd6c7ef478a2d4d8806859bf, type: 3}
-    width: 0.1
-    prefab: {fileID: 1380551815616039762, guid: 32264da892e19dd40820bad0c9228b8c, type: 3}
-  - imageName: O_SamsungGalaxyBuds3
-    texture: {fileID: 2800000, guid: 1ff9d53af916aa049842bd40d11f7e22, type: 3}
-    width: 0.1
-    prefab: {fileID: 7981150082245380279, guid: ad9f123790b5808489050043f6e48ab6, type: 3}
-  - imageName: O_SamsungGalaxyTabS9
-    texture: {fileID: 2800000, guid: 51e6d6ed19e045642a8858c40f36fcb7, type: 3}
-    width: 0.1
-    prefab: {fileID: 3274691900484288253, guid: ee775508765fba8408ef6cbe2e82bd2d, type: 3}
-  - imageName: O_SamsungGalaxyTabS9FE
-    texture: {fileID: 2800000, guid: eecebb212b4a97e4790d1e76c5573685, type: 3}
-    width: 0.1
-    prefab: {fileID: 5164840370985317726, guid: c9abbb650b976c041a6045be4d3ca9ec, type: 3}
-  - imageName: O_SamsungTheFrame
-    texture: {fileID: 2800000, guid: 530b63a2b4545844d97461014d79bd2b, type: 3}
-    width: 0.1
-    prefab: {fileID: 6966523932809722633, guid: 181d7f8cebb9ae34cacc179a0104925b, type: 3}
-  - imageName: O_SamsungTVFRAME312
-    texture: {fileID: 2800000, guid: 1b97edd8569ff924d84243087e380fbc, type: 3}
-    width: 0.1
-    prefab: {fileID: 5374303088381108265, guid: f8b6937237c2dc34ba8b09f813bea929, type: 3}
-  - imageName: O_HonorPad9
-    texture: {fileID: 2800000, guid: 9e409256bd203d54ebab5687aa3e70cf, type: 3}
-    width: 0.1
-    prefab: {fileID: 8730915908262201831, guid: 1d17e1ee3af14594085ea0d54bcb6ad8, type: 3}
-  - imageName: O_IPhone15ProMax
-    texture: {fileID: 2800000, guid: 42bf5bcd0bece3946a00c9c3a050cb66, type: 3}
-    width: 0.1
-    prefab: {fileID: 6807170864666460911, guid: 1b5e08fcd5623aa40b898327fd622c74, type: 3}
-  - imageName: O_Honor200
-    texture: {fileID: 2800000, guid: 9aa5ce6600a3612408fa149011167c99, type: 3}
-    width: 0.1
+  prefabImages:
+  - trackingData:
+      imageName: Honor200
+      texture: {fileID: 2800000, guid: 9aa5ce6600a3612408fa149011167c99, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
     prefab: {fileID: 8730915908262201831, guid: 68dd5cfe8d54a484d8408f9f57eb5186, type: 3}
-  - imageName: O_Honor200Lite
-    texture: {fileID: 2800000, guid: def19a3f2247199489226a45c50d10c0, type: 3}
-    width: 0.1
+  - trackingData:
+      imageName: Honor200Lite
+      texture: {fileID: 2800000, guid: def19a3f2247199489226a45c50d10c0, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
     prefab: {fileID: 8730915908262201831, guid: 4295d7da7b9ea7646a3c0297cde093fd, type: 3}
-  - imageName: O_Honor200Pro
-    texture: {fileID: 2800000, guid: 55d3073a659c5ac48a976753935f360c, type: 3}
-    width: 0.1
+  - trackingData:
+      imageName: Honor200Pro
+      texture: {fileID: 2800000, guid: 55d3073a659c5ac48a976753935f360c, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
     prefab: {fileID: 8730915908262201831, guid: 8bf89d4df6d21654cb0bd6feef702269, type: 3}
-  - imageName: O_Insta360Ace 8kPro
-    texture: {fileID: 2800000, guid: 34588a1d0d16fe54f830127041c9b40c, type: 3}
-    width: 0.1
+  - trackingData:
+      imageName: HonorPad9
+      texture: {fileID: 2800000, guid: 9e409256bd203d54ebab5687aa3e70cf, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 8730915908262201831, guid: 1d17e1ee3af14594085ea0d54bcb6ad8, type: 3}
+  - trackingData:
+      imageName: Insta360Ace8KPro
+      texture: {fileID: 2800000, guid: 34588a1d0d16fe54f830127041c9b40c, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
     prefab: {fileID: 8730915908262201831, guid: c7d6bd0927e607944bf2825bd9eb907e, type: 3}
-  - imageName: O_Insta360GO306
-    texture: {fileID: 2800000, guid: 17cef445c6f4ae041aafb4723aeddd89, type: 3}
-    width: 0.1
+  - trackingData:
+      imageName: Insta360GO306
+      texture: {fileID: 2800000, guid: 17cef445c6f4ae041aafb4723aeddd89, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
     prefab: {fileID: 8730915908262201831, guid: 0be4d972a959e15448d37f24242ba4a1, type: 3}
-  - imageName: O_Insta360GO315
-    texture: {fileID: 2800000, guid: be6b20897712621458fdbbe07ef49ec1, type: 3}
-    width: 0.1
+  - trackingData:
+      imageName: Insta360GO315
+      texture: {fileID: 2800000, guid: be6b20897712621458fdbbe07ef49ec1, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
     prefab: {fileID: 8730915908262201831, guid: a46c6d747698dfa4c99d7e865b57d22b, type: 3}
-  - imageName: O_Insta360X3
-    texture: {fileID: 2800000, guid: 6fe9540d58406244899dee8bb9d02925, type: 3}
-    width: 0.1
+  - trackingData:
+      imageName: Insta360X3
+      texture: {fileID: 2800000, guid: 6fe9540d58406244899dee8bb9d02925, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
     prefab: {fileID: 8730915908262201831, guid: 03894bb91ac3d584e8635b61e790afc1, type: 3}
-  - imageName: O_Insta360X4
-    texture: {fileID: 2800000, guid: 5102d16b27905e3499f92ec3068266e7, type: 3}
-    width: 0.1
+  - trackingData:
+      imageName: Insta360X4Bundle
+      texture: {fileID: 2800000, guid: 5102d16b27905e3499f92ec3068266e7, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
     prefab: {fileID: 8730915908262201831, guid: 42e29d7bb084ded4394fa5245202185b, type: 3}
+  - trackingData:
+      imageName: IPhone15ProMax
+      texture: {fileID: 2800000, guid: 42bf5bcd0bece3946a00c9c3a050cb66, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 6807170864666460911, guid: 1b5e08fcd5623aa40b898327fd622c74, type: 3}
+  - trackingData:
+      imageName: JBLCinemaSB190
+      texture: {fileID: 2800000, guid: 13827bbba009ebb4998f8b80be95c43c, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: c6ab483721e52a140a8cd72ab5ac1580, type: 3}
+  - trackingData:
+      imageName: LGBarraSonido160W
+      texture: {fileID: 2800000, guid: e531bda3847b0074d9c22fe24487e279, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 0443a5026f98de6458a0d39e79aae0fc, type: 3}
+  - trackingData:
+      imageName: LOGTV504K
+      texture: {fileID: 2800000, guid: a7e5bf18f4662ab4e961ab8ee9b3251b, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 2137304164432314862, guid: 3334c39173b3c4348bc789b8adc333d6, type: 3}
+  - trackingData:
+      imageName: Samsung160WRMS
+      texture: {fileID: 2800000, guid: e4cd0ceddbbad274b8cf73cbd641fefd, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5374303088381108265, guid: 97093d12714c8d24f87d35bc9e34023c, type: 3}
+  - trackingData:
+      imageName: SamsungCrystalUHD50
+      texture: {fileID: 2800000, guid: 0a411a16bd6c7ef478a2d4d8806859bf, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 1380551815616039762, guid: 32264da892e19dd40820bad0c9228b8c, type: 3}
+  - trackingData:
+      imageName: Samsung Galaxy Buds 3
+      texture: {fileID: 2800000, guid: 1ff9d53af916aa049842bd40d11f7e22, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 7981150082245380279, guid: ad9f123790b5808489050043f6e48ab6, type: 3}
+  - trackingData:
+      imageName: Samsung Galaxy Tab S9
+      texture: {fileID: 2800000, guid: 51e6d6ed19e045642a8858c40f36fcb7, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 3274691900484288253, guid: ee775508765fba8408ef6cbe2e82bd2d, type: 3}
+  - trackingData:
+      imageName: Samsung Galaxy Tab S9 FE
+      texture: {fileID: 2800000, guid: eecebb212b4a97e4790d1e76c5573685, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5164840370985317726, guid: c9abbb650b976c041a6045be4d3ca9ec, type: 3}
+  - trackingData:
+      imageName: Samsung The Frame
+      texture: {fileID: 2800000, guid: 530b63a2b4545844d97461014d79bd2b, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 6966523932809722633, guid: 181d7f8cebb9ae34cacc179a0104925b, type: 3}
+  - trackingData:
+      imageName: Samsung Barra de Sonido para TV FRAME
+      texture: {fileID: 2800000, guid: 1b97edd8569ff924d84243087e380fbc, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5374303088381108265, guid: f8b6937237c2dc34ba8b09f813bea929, type: 3}
+  - trackingData:
+      imageName: Sony Barra de Sonido 5.1.2
+      texture: {fileID: 2800000, guid: 77a839f81eb412e4c969e781f6af3157, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 2cf2cbfb86e0d4840a7d7bbbe314a320, type: 3}
+  - trackingData:
+      imageName: Hisense70TV
+      texture: {fileID: 2800000, guid: 933d751a12ddad14f8b8a0fb5829148e, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5864673284648365977, guid: 7d7f6f9d5be17b944a874e085f05f3e9, type: 3}
+  - trackingData:
+      imageName: Hisense85TV
+      texture: {fileID: 2800000, guid: c03e576d934851249a667bdf69a5dbe3, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5864673284648365977, guid: b003a879fce32604d9322d0f82cc0523, type: 3}
+  bundleImages: []
 --- !u!114 &160534324
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -387,8 +469,8 @@ MonoBehaviour:
   planeTracking: 0
   imageTracking: 1
   supportOcclusion: 0
-  supportLighting: 0
-  supportRecording: 1
+  supportLighting: 1
+  supportRecording: 0
   thumbnail: {fileID: 0}
   previews: []
   thumbCameras:
