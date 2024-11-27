@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 7491068163697222188}
   - component: {fileID: 5912748987193119512}
   - component: {fileID: 4069759065633234223}
+  - component: {fileID: 3402544621010252017}
   m_Layer: 5
   m_Name: Visual Help Image
   m_TagString: Untagged
@@ -98,7 +99,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 25068b8e4f361ea4383344b67c416868, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -108,6 +109,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &3402544621010252017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 201722485472762272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27e703f4e6c8eff43af716a789821494, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _url: 
+  iconSize: 0.5
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &294475831782704589
 GameObject:
   m_ObjectHideFlags: 0
@@ -2237,7 +2253,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &955489706456686802
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3287,10 +3303,13 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"characteristicsPanel","value":{"$content":15,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"otherProductsPanel","value":{"$content":16,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"characteristicsVisualHelp","value":{"$content":17,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"energyImage","value":{"$content":18,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Sprite,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"technologyImage","value":{"$content":19,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Sprite,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"durabilityImage","value":{"$content":20,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Sprite,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"VisualHelpImage","value":null,"typeHandle":{"Identification":"Ilikeit.UI.IlikeitWebImage,
+      Ilikeit.UI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"energyImage","value":{"$content":"https://back.panafoto.com/media/catalog/product/cache/22adb41f3f66ba957b3b3b7b0df44fe6/1/5/155147-004.jpg","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"technologyImage","value":{"$content":"https://back.panafoto.com/media/catalog/product/cache/22adb41f3f66ba957b3b3b7b0df44fe6/1/5/155147-008.jpg","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"durabilityImage","value":{"$content":"https://back.panafoto.com/media/catalog/product/cache/22adb41f3f66ba957b3b3b7b0df44fe6/1/5/155147-007.jpg","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Help
+      Image","value":{"$content":"https://back.panafoto.com/media/catalog/product/cache/22adb41f3f66ba957b3b3b7b0df44fe6/1/5/155147-009.jpg","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 3246422061350589739}
     - {fileID: 8268228265022517871}
@@ -3310,9 +3329,6 @@ MonoBehaviour:
     - {fileID: 796530275526112814}
     - {fileID: 2828937615351906159}
     - {fileID: 4069759065633234223}
-    - {fileID: 21300000, guid: 38bf38791eda27744a047900e66a683c, type: 3}
-    - {fileID: 21300000, guid: 7c10e4a8a0fbecd419a7391f1b573f1e, type: 3}
-    - {fileID: 21300000, guid: 973905dcd01271f449ef1720331ab654, type: 3}
 --- !u!114 &6147891799269997977
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3446,6 +3462,7 @@ GameObject:
   - component: {fileID: 5710758550835769250}
   - component: {fileID: 5533251059658637439}
   - component: {fileID: 8218658390087913886}
+  - component: {fileID: 3615246218293302288}
   m_Layer: 5
   m_Name: Product Image
   m_TagString: Untagged
@@ -3500,7 +3517,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 88384fe875635474e88db466d1140cd9, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -3510,6 +3527,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &3615246218293302288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7633663650472599707}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27e703f4e6c8eff43af716a789821494, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _url: https://back.panafoto.com/media/catalog/product/cache/22adb41f3f66ba957b3b3b7b0df44fe6/1/5/155147-0001.jpg
+  iconSize: 0.5
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &7718184281419719856
 GameObject:
   m_ObjectHideFlags: 0
@@ -4842,7 +4874,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4c23a83466ac4604c93bbe9b59192488, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3775233116732673403, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: _url
+      value: https://back.panafoto.com/media/catalog/product/cache/22adb41f3f66ba957b3b3b7b0df44fe6/1/5/154273-001.jpg
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: Honor 200 Lite
@@ -4917,7 +4953,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.074999996
+      value: -0.105
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -4962,7 +4998,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: OpenProduct3URL
+      value: OpenProductURL3
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -5882,15 +5918,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1182485171998845287, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 88384fe875635474e88db466d1140cd9, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_PreserveAspect
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3775233116732673403, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: _url
+      value: https://back.panafoto.com/media/catalog/product/cache/22adb41f3f66ba957b3b3b7b0df44fe6/1/5/155147-0001.jpg
       objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
@@ -6011,7 +6051,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: OpenProduct0URL
+      value: OpenProductURL0
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -7290,7 +7330,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 0ada548d6272abf40b4be94a548bef1f, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3775233116732673403, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: _url
+      value: https://back.panafoto.com/media/catalog/product/cache/22adb41f3f66ba957b3b3b7b0df44fe6/1/5/155150-001.jpg
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: Honor Pad 9
@@ -7369,7 +7413,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.044999998
+      value: -0.074999996
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -7414,7 +7458,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: OpenProduct2URL
+      value: OpenProductURL2
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -7545,7 +7589,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: d8c943ab8e2d82c4fb70d9f6bb631e92, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3775233116732673403, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: _url
+      value: https://back.panafoto.com/media/catalog/product/cache/22adb41f3f66ba957b3b3b7b0df44fe6/1/5/154793-001_1.jpg
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: Honor 200 Pro
@@ -7624,7 +7672,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.015
+      value: -0.044999998
       objectReference: {fileID: 0}
     - target: {fileID: 6651769819284510206, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -7669,7 +7717,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: OpenProduct1URL
+      value: OpenProductURL1
       objectReference: {fileID: 0}
     - target: {fileID: 8964767275236175443, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName

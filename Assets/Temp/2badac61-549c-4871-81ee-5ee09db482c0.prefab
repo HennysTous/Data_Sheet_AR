@@ -174,7 +174,7 @@ MonoBehaviour:
     prefab: {fileID: 5164840370985317726, guid: c9abbb650b976c041a6045be4d3ca9ec, type: 3}
   - trackingData:
       imageName: Samsung The Frame
-      texture: {fileID: 2800000, guid: 530b63a2b4545844d97461014d79bd2b, type: 3}
+      texture: {fileID: 2800000, guid: d5d9f34a3e86e804e9d926d1825b55ac, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
@@ -207,6 +207,216 @@ MonoBehaviour:
       anchorImage: 0
       levelWithPlane: 0
     prefab: {fileID: 5864673284648365977, guid: b003a879fce32604d9322d0f82cc0523, type: 3}
+  - trackingData:
+      imageName: Hisense32FHDSmartVidaa
+      texture: {fileID: 2800000, guid: 8e304d74925fe244c925f12e936266d4, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 5cae15adf6d6b8a438107324ea0a9f4b, type: 3}
+  - trackingData:
+      imageName: Hisense 40
+      texture: {fileID: 2800000, guid: c6f093da33b89484b8f923222bdd5d7e, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 25708e9293b4eb2449285890836e6f7e, type: 3}
+  - trackingData:
+      imageName: Hisense 43
+      texture: {fileID: 2800000, guid: e60f2f7ebc15f544ba3a6efd133e9d31, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 108514c3965b3e048ace287cde0ed594, type: 3}
+  - trackingData:
+      imageName: Hisense 43 2
+      texture: {fileID: 2800000, guid: 2c847cb628ca55c4b9b06aecfc0d56b3, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 621d77ae4e6e9d74794188e43ae386ab, type: 3}
+  - trackingData:
+      imageName: Hisense 50
+      texture: {fileID: 2800000, guid: 7495be9fd444b5740b3bbca5bb90cefd, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: b4fa87ec6ac56e54aa235aa92f156399, type: 3}
+  - trackingData:
+      imageName: Hisense 50 2
+      texture: {fileID: 2800000, guid: 22de2993cbafd7e4fa0a21f3db696978, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 4015245175621274a9714c760d60ac4f, type: 3}
+  - trackingData:
+      imageName: Hisense 55
+      texture: {fileID: 2800000, guid: 48a13b34f20a9b24cb3e711c071c1bac, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: e354b7ef6fcfafd488240260322186a4, type: 3}
+  - trackingData:
+      imageName: Hisense 55 2
+      texture: {fileID: 2800000, guid: 4d4051e50ac879248be0e080275d180b, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: e1c54ee2b4926e448b9e01987daf0166, type: 3}
+  - trackingData:
+      imageName: Hisense 55 3
+      texture: {fileID: 2800000, guid: 0de8125eae2d79146b303f19e681c3cf, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 651eab5cf1a457d4ea0ce626d61f7c4b, type: 3}
+  - trackingData:
+      imageName: Hisense 55 4
+      texture: {fileID: 2800000, guid: 1c3b887d3fb9aa7459b50214159df8e8, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 89e98d37c9d60e74c995773f054585c5, type: 3}
+  - trackingData:
+      imageName: Hisense 58
+      texture: {fileID: 2800000, guid: 449444afbe2496a4b95e6d2793ad3abb, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 90383be488dbcaf4984768182a63a624, type: 3}
+  - trackingData:
+      imageName: Hisense 65
+      texture: {fileID: 2800000, guid: 8049e6c1a3572cf4da40996488596fbf, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 735587388ab3e33418ee3466e3024093, type: 3}
+  - trackingData:
+      imageName: Hisense 65 2
+      texture: {fileID: 2800000, guid: b64d771736bcc8641b03f6f903abb5c9, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: a80803fd11746f94b95de7ec015eb337, type: 3}
+  - trackingData:
+      imageName: Hisense 65 3
+      texture: {fileID: 2800000, guid: 4f062ce06a1901b4685c49b5ef5706c5, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: ae45cd7ce1ea30643bfa9ee3ed0c45ae, type: 3}
+  - trackingData:
+      imageName: Hisense 70
+      texture: {fileID: 2800000, guid: 85d3c007c316082409988fd5b3cf79f6, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: c4e47f6e0c6588549a192c7287164826, type: 3}
+  - trackingData:
+      imageName: Hisense 75
+      texture: {fileID: 2800000, guid: 6676e4556c55aaf49a8bbb569efb1423, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: e57ae245502db1143b6a3bdacf813c12, type: 3}
+  - trackingData:
+      imageName: Hisense 75 2
+      texture: {fileID: 2800000, guid: 1bf6e967ecdf1754b976d5096e3c9419, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 4e97b14c632468a4d8e7b92289e65077, type: 3}
+  - trackingData:
+      imageName: Hisense 75 3
+      texture: {fileID: 2800000, guid: db90352a6ddf000438f446529931260d, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: fb9836e65092b524b922329d4a64b9b6, type: 3}
+  - trackingData:
+      imageName: Hisense 85
+      texture: {fileID: 2800000, guid: e34063fe4f1275e48bf084125a41f25a, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: a4d21d6c707c6b443a6aefeb32cb0434, type: 3}
+  - trackingData:
+      imageName: Hisense 100
+      texture: {fileID: 2800000, guid: 42cff01977e1ab948bfa511039213df5, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 94d398682a9a9ff47ac0506602f1876c, type: 3}
+  - trackingData:
+      imageName: LG 32
+      texture: {fileID: 2800000, guid: 9b9c3803f50adf546a2fb2b38fa551d8, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 883eb1c8d69983a42845243e93676ae0, type: 3}
+  - trackingData:
+      imageName: LG 43
+      texture: {fileID: 2800000, guid: 7de3061d9c0f3ea49ad571f41e9c0f94, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 90841155022849845be237922e8f0c6a, type: 3}
+  - trackingData:
+      imageName: LG 43 2
+      texture: {fileID: 2800000, guid: e176e51ad776162448d3e6028f47e28e, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 3db6bdbe8ba8b9a46aca45ec5724d855, type: 3}
+  - trackingData:
+      imageName: LG 50
+      texture: {fileID: 2800000, guid: db7bb1d0b81df2d45bdc4e6e780f9201, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: e3e1f36e63aa8cd44832279d903d0b4d, type: 3}
+  - trackingData:
+      imageName: LG 50 2
+      texture: {fileID: 2800000, guid: d2026ce2b36abfe47900cb38157b59e2, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 1aa70caa8bb9b2843b5fe5f0a15c69c7, type: 3}
+  - trackingData:
+      imageName: LG 55
+      texture: {fileID: 2800000, guid: be9769f93f655a943bd5b24e4a080f93, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: e0040a393ee8cc046bd9b47cb4ea40c6, type: 3}
+  - trackingData:
+      imageName: LG 55 2
+      texture: {fileID: 2800000, guid: 2fe17dbfeab88d543b3e704e01550cb0, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: e1fd1376ed7efeb408bbecbc7773239f, type: 3}
+  - trackingData:
+      imageName: LG 65
+      texture: {fileID: 2800000, guid: 2e916ac834cd7da46a5130e26a8dbf7b, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 3469214977c8f3e4eba35a921c7163bf, type: 3}
+  - trackingData:
+      imageName: LG 75
+      texture: {fileID: 2800000, guid: 70dca8d4594b29b45bc483d2d254ec86, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 4a9790b1dbcaf5b4dbfa93d292adde4f, type: 3}
+  - trackingData:
+      imageName: LG OLED 48
+      texture: {fileID: 2800000, guid: 3a67fd6ed9baa8f408ab889e944759e8, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: b17246b1fb6e2be409883ad731d967ab, type: 3}
   bundleImages: []
 --- !u!1 &8310191829174572593
 GameObject:

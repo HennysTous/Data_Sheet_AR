@@ -414,7 +414,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 3dc7f85bd2d03c247ae62213ef385664, type: 3}
+  m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 3dc7f85bd2d03c247ae62213ef385664, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.7
@@ -751,7 +751,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 12b054fda2b37a34cb4d10dcc9d40e26, type: 3}
+  m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 12b054fda2b37a34cb4d10dcc9d40e26, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.7
@@ -1553,7 +1553,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 993057bce88e1b441a19f9da2f90dc5d, type: 3}
+  m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 993057bce88e1b441a19f9da2f90dc5d, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.7
@@ -2472,7 +2472,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 2da9ba54c12fdc44daa7bcee91261ce2, type: 3}
+  m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 2da9ba54c12fdc44daa7bcee91261ce2, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.7
@@ -4488,7 +4488,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1109709536, guid: d8a8c0c0d4930644498e054ba3dbfbd2, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: "Aire Acondicionado Port\xE1til Hisense\n12000 BTU"
@@ -4806,7 +4810,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1109709536, guid: d8a8c0c0d4930644498e054ba3dbfbd2, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: "Aire Acondicionado Port\xE1til Hisense\n12000 BTU"
@@ -4965,7 +4973,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1109709536, guid: d8a8c0c0d4930644498e054ba3dbfbd2, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: "Aire Acondicionado Port\xE1til Hisense\n12000 BTU"
@@ -5186,7 +5198,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1109709536, guid: d8a8c0c0d4930644498e054ba3dbfbd2, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: "Aire Acondicionado Port\xE1til Hisense\n12000 BTU"
@@ -5345,7 +5361,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1109709536, guid: d8a8c0c0d4930644498e054ba3dbfbd2, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: "Aire Acondicionado Port\xE1til Hisense\n12000 BTU"
@@ -5574,7 +5594,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1109709536, guid: d8a8c0c0d4930644498e054ba3dbfbd2, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: "Aire Acondicionado Port\xE1til Hisense\n12000 BTU"
@@ -5733,7 +5757,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1109709536, guid: d8a8c0c0d4930644498e054ba3dbfbd2, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: "Aire Acondicionado Port\xE1til Hisense\n12000 BTU"
@@ -5962,7 +5990,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -635417070, guid: af7e88cc8e9f93b4cb1cb9a2d0fcd319, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_PreserveAspect
       value: 1
@@ -6125,7 +6157,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1109709536, guid: d8a8c0c0d4930644498e054ba3dbfbd2, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: "Aire Acondicionado Port\xE1til Hisense\n12000 BTU"
@@ -6284,7 +6320,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 958560864, guid: 772aadf5b9e5bf04d95a5c22904ecc1e, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: Hisense 70 Class A6 Series LED 4K UHD
@@ -6830,7 +6870,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -543245378, guid: b9f5aa07daf5f544984af54713d73c1a, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: 'Refrigeradora HIsense
@@ -7061,7 +7105,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1109709536, guid: d8a8c0c0d4930644498e054ba3dbfbd2, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: "Aire Acondicionado Port\xE1til Hisense\n12000 BTU"
@@ -7759,6 +7807,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 836896902, guid: b65685780456c9a4fb2613dd23755ed1, type: 3}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: Hisense 75 Clase A6 Series LED 4K UHD
@@ -7917,7 +7969,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -317663519, guid: f4a70a0e0558889419210b308ee6c456, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: Hisense TV de 85 QLED Smart 4K
@@ -8076,7 +8132,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1109709536, guid: d8a8c0c0d4930644498e054ba3dbfbd2, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: "Aire Acondicionado Port\xE1til Hisense\n12000 BTU"
@@ -8456,7 +8516,11 @@ PrefabInstance:
     - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -628962761, guid: 26ffd04d7957946469382541d4adc0c3, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258150218345584881, guid: 3256f927446c3134c917a3798532f00a, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6307985521384349320, guid: 3256f927446c3134c917a3798532f00a, type: 3}
       propertyPath: m_text
       value: Hisense UHD TV 55 con VIDAA
