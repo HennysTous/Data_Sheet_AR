@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: ProductManager 1
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"ProductManager","summary":"Sends
+      dashboard information to ILikeit''s database","pan":{"x":-966.2596,"y":65.62723},"zoom":1.0,"elements":[{"defaultValues":{"text":{"$content":"La
+      barra de sonido 5.1.2 canales con tecnolog\u00eda Dolby Atmos ofrece una experiencia
+      auditiva inmersiva gracias a su innovador dise\u00f1o. Incorpora 360 Spatial
+      Sound Mapping, que genera m\u00faltiples altavoces virtuales para crear un
+      campo sonoro envolvente, adapt\u00e1ndose a cualquier ambiente. Con dos altavoces
+      orientados hacia arriba, reproduce sonidos que parecen venir desde arriba,
+      mientras que sus tres altavoces frontales y un subwoofer integrado garantizan
+      graves profundos. Adem\u00e1s, es compatible con Bluetooth 5.0, HDMI y Chromecast,
+      lo que permite una conectividad vers\u00e1til y sencilla para disfrutar de
+      contenido multimedia de alta calidad.","$type":"System.String"},"voice":{"$content":"NOVA","$type":"Ilikeit.API.Models.TTSVoice"},"audioSource":null,"experienceId":{"$content":"xd","$type":"System.String"}},"position":{"x":-982.0,"y":-132.0},"guid":"361f681d-c461-4c8f-8ef6-dea9e561233e","$version":"A","$type":"GenerateTTS","$id":"9"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Audio","$type":"System.String"},"object":null},"position":{"x":-1298.0,"y":-12.0},"guid":"f96bf1c8-478c-4d98-8be8-81ffb43a628e","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"11"},{"coroutine":true,"defaultValues":{},"position":{"x":-1296.0,"y":-105.0},"guid":"ca1a4a16-e22a-4f2f-b900-8a6775461332","$version":"A","$type":"Unity.VisualScripting.OnEnable","$id":"13"},{"sourceUnit":{"$ref":"13"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"input","guid":"97caa359-6d12-4612-9fec-eeaa64833e62","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"audioSource","guid":"2c4adb27-f226-4e1c-b21c-183316bac499","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

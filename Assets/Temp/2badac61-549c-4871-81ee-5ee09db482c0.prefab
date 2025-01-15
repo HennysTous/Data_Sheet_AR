@@ -31,6 +31,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3587804403344569753}
+  - {fileID: 5456389007832549121}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5670278116051369654
@@ -52,372 +53,1061 @@ MonoBehaviour:
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 8730915908262201831, guid: 68dd5cfe8d54a484d8408f9f57eb5186, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: fa20c64fad6dbd6458fc7d6cf31205f2, type: 3}
   - trackingData:
       imageName: Honor200Lite
       texture: {fileID: 2800000, guid: def19a3f2247199489226a45c50d10c0, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 8730915908262201831, guid: 4295d7da7b9ea7646a3c0297cde093fd, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 67da22105070d894c9cecf733d9dd58f, type: 3}
   - trackingData:
       imageName: Honor200Pro
       texture: {fileID: 2800000, guid: 55d3073a659c5ac48a976753935f360c, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 8730915908262201831, guid: 8bf89d4df6d21654cb0bd6feef702269, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: c4365aff51412e448b24f690a37ec1b7, type: 3}
   - trackingData:
       imageName: HonorPad9
       texture: {fileID: 2800000, guid: 9e409256bd203d54ebab5687aa3e70cf, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 8730915908262201831, guid: 1d17e1ee3af14594085ea0d54bcb6ad8, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 7f3eaab3301a98c4b8b931545c406283, type: 3}
   - trackingData:
       imageName: Insta360Ace8KPro
       texture: {fileID: 2800000, guid: 34588a1d0d16fe54f830127041c9b40c, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 8730915908262201831, guid: c7d6bd0927e607944bf2825bd9eb907e, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 9045b6cd45705064b878ca2f724b14d5, type: 3}
   - trackingData:
       imageName: Insta360GO306
       texture: {fileID: 2800000, guid: 17cef445c6f4ae041aafb4723aeddd89, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 8730915908262201831, guid: 0be4d972a959e15448d37f24242ba4a1, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 492b9c07389ef9343939ea3d4bd89a00, type: 3}
   - trackingData:
       imageName: Insta360GO315
       texture: {fileID: 2800000, guid: be6b20897712621458fdbbe07ef49ec1, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 8730915908262201831, guid: a46c6d747698dfa4c99d7e865b57d22b, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 4aaaf98f6a303714196e20ec6f450e66, type: 3}
   - trackingData:
       imageName: Insta360X3
       texture: {fileID: 2800000, guid: 6fe9540d58406244899dee8bb9d02925, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 8730915908262201831, guid: 03894bb91ac3d584e8635b61e790afc1, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: ae3eb9f7130ce4c4ebc3d70c83ceef41, type: 3}
   - trackingData:
       imageName: Insta360X4Bundle
       texture: {fileID: 2800000, guid: 5102d16b27905e3499f92ec3068266e7, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 8730915908262201831, guid: 42e29d7bb084ded4394fa5245202185b, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 0f5aade7da01689408c6f76879eccf9e, type: 3}
   - trackingData:
       imageName: IPhone15ProMax
       texture: {fileID: 2800000, guid: 42bf5bcd0bece3946a00c9c3a050cb66, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 6807170864666460911, guid: 1b5e08fcd5623aa40b898327fd622c74, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: d344728e12dc01f4aa7b9db7f2dfd2ed, type: 3}
   - trackingData:
       imageName: JBLCinemaSB190
       texture: {fileID: 2800000, guid: 13827bbba009ebb4998f8b80be95c43c, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: c6ab483721e52a140a8cd72ab5ac1580, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 452bfbf201a92554e8eba23507325f03, type: 3}
   - trackingData:
       imageName: LGBarraSonido160W
       texture: {fileID: 2800000, guid: e531bda3847b0074d9c22fe24487e279, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 0443a5026f98de6458a0d39e79aae0fc, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 48537f35bb3de154c80d15629a3704ed, type: 3}
   - trackingData:
       imageName: LOGTV504K
       texture: {fileID: 2800000, guid: a7e5bf18f4662ab4e961ab8ee9b3251b, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 2137304164432314862, guid: 3334c39173b3c4348bc789b8adc333d6, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 113dd332bd7956744b20b3d30b708046, type: 3}
   - trackingData:
       imageName: Samsung160WRMS
       texture: {fileID: 2800000, guid: e4cd0ceddbbad274b8cf73cbd641fefd, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5374303088381108265, guid: 97093d12714c8d24f87d35bc9e34023c, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 84e7adc4d0b26454f8a3db8e5cc498eb, type: 3}
   - trackingData:
       imageName: SamsungCrystalUHD50
       texture: {fileID: 2800000, guid: 0a411a16bd6c7ef478a2d4d8806859bf, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 1380551815616039762, guid: 32264da892e19dd40820bad0c9228b8c, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 93d8f23e8c1e91b4f9961ca525036db1, type: 3}
   - trackingData:
       imageName: Samsung Galaxy Buds 3
       texture: {fileID: 2800000, guid: 1ff9d53af916aa049842bd40d11f7e22, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 7981150082245380279, guid: ad9f123790b5808489050043f6e48ab6, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 20728521cefcc5f48a3bcb2c63f1d44c, type: 3}
   - trackingData:
       imageName: Samsung Galaxy Tab S9
       texture: {fileID: 2800000, guid: 51e6d6ed19e045642a8858c40f36fcb7, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 3274691900484288253, guid: ee775508765fba8408ef6cbe2e82bd2d, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 71f5d0bb5323af84bba805a991d07020, type: 3}
   - trackingData:
       imageName: Samsung Galaxy Tab S9 FE
       texture: {fileID: 2800000, guid: eecebb212b4a97e4790d1e76c5573685, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5164840370985317726, guid: c9abbb650b976c041a6045be4d3ca9ec, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 267ba60d23d640d4ab899f35dfec986f, type: 3}
   - trackingData:
       imageName: Samsung The Frame
       texture: {fileID: 2800000, guid: d5d9f34a3e86e804e9d926d1825b55ac, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 6966523932809722633, guid: 181d7f8cebb9ae34cacc179a0104925b, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 9ba2da1844f09a64a8d6110522d7f1ec, type: 3}
   - trackingData:
       imageName: Samsung Barra de Sonido para TV FRAME
       texture: {fileID: 2800000, guid: 1b97edd8569ff924d84243087e380fbc, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5374303088381108265, guid: f8b6937237c2dc34ba8b09f813bea929, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: ab264e102bbe0b44b8224ced7066f86e, type: 3}
   - trackingData:
       imageName: Sony Barra de Sonido 5.1.2
       texture: {fileID: 2800000, guid: 77a839f81eb412e4c969e781f6af3157, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 2cf2cbfb86e0d4840a7d7bbbe314a320, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: a3bb09b153fc6f44ab556ff2cba03b9b, type: 3}
   - trackingData:
       imageName: Hisense70TV
       texture: {fileID: 2800000, guid: 933d751a12ddad14f8b8a0fb5829148e, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5864673284648365977, guid: 7d7f6f9d5be17b944a874e085f05f3e9, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 1dd46c1f04e9aff44abd5f378503600a, type: 3}
   - trackingData:
       imageName: Hisense85TV
       texture: {fileID: 2800000, guid: c03e576d934851249a667bdf69a5dbe3, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5864673284648365977, guid: b003a879fce32604d9322d0f82cc0523, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 4b669f9e53b2ce749b2853d9a7665722, type: 3}
   - trackingData:
       imageName: Hisense32FHDSmartVidaa
       texture: {fileID: 2800000, guid: 8e304d74925fe244c925f12e936266d4, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 5cae15adf6d6b8a438107324ea0a9f4b, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 8c013ac7794ea1f4f8ad6bd8ee218b79, type: 3}
   - trackingData:
       imageName: Hisense 40
       texture: {fileID: 2800000, guid: c6f093da33b89484b8f923222bdd5d7e, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 25708e9293b4eb2449285890836e6f7e, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 1de6020027278bf44ada240b16b3070e, type: 3}
   - trackingData:
       imageName: Hisense 43
       texture: {fileID: 2800000, guid: e60f2f7ebc15f544ba3a6efd133e9d31, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 108514c3965b3e048ace287cde0ed594, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 2c7cb8c37c4e42949910ca4dc6a6feeb, type: 3}
   - trackingData:
       imageName: Hisense 43 2
       texture: {fileID: 2800000, guid: 2c847cb628ca55c4b9b06aecfc0d56b3, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 621d77ae4e6e9d74794188e43ae386ab, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: a994501324ec70e419a7d78e986a370d, type: 3}
   - trackingData:
       imageName: Hisense 50
       texture: {fileID: 2800000, guid: 7495be9fd444b5740b3bbca5bb90cefd, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: b4fa87ec6ac56e54aa235aa92f156399, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 540068218fbb73a429300a53016f47ee, type: 3}
   - trackingData:
       imageName: Hisense 50 2
       texture: {fileID: 2800000, guid: 22de2993cbafd7e4fa0a21f3db696978, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 4015245175621274a9714c760d60ac4f, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: e132dfc37397f6a44a2e50a2763f82cd, type: 3}
   - trackingData:
       imageName: Hisense 55
       texture: {fileID: 2800000, guid: 48a13b34f20a9b24cb3e711c071c1bac, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: e354b7ef6fcfafd488240260322186a4, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 89f1d8ae22ce5fb499598c53b001ebfd, type: 3}
   - trackingData:
       imageName: Hisense 55 2
       texture: {fileID: 2800000, guid: 4d4051e50ac879248be0e080275d180b, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: e1c54ee2b4926e448b9e01987daf0166, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: c4cbd424c56e0a840911e7a7db639989, type: 3}
   - trackingData:
       imageName: Hisense 55 3
       texture: {fileID: 2800000, guid: 0de8125eae2d79146b303f19e681c3cf, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 651eab5cf1a457d4ea0ce626d61f7c4b, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 89a05bbf0fac6be4b99bbbf61eefd690, type: 3}
   - trackingData:
       imageName: Hisense 55 4
       texture: {fileID: 2800000, guid: 1c3b887d3fb9aa7459b50214159df8e8, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 89e98d37c9d60e74c995773f054585c5, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 8e0c7959a88d53e459986ceb26406597, type: 3}
   - trackingData:
       imageName: Hisense 58
       texture: {fileID: 2800000, guid: 449444afbe2496a4b95e6d2793ad3abb, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 90383be488dbcaf4984768182a63a624, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 3493e894d60c84b48bc3d510bbf444d6, type: 3}
   - trackingData:
       imageName: Hisense 65
       texture: {fileID: 2800000, guid: 8049e6c1a3572cf4da40996488596fbf, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 735587388ab3e33418ee3466e3024093, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 3ddb87b9c0611ab418e6875ca53ade59, type: 3}
   - trackingData:
       imageName: Hisense 65 2
       texture: {fileID: 2800000, guid: b64d771736bcc8641b03f6f903abb5c9, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: a80803fd11746f94b95de7ec015eb337, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 656daa8fd329c034ebb72197e7004b45, type: 3}
   - trackingData:
       imageName: Hisense 65 3
       texture: {fileID: 2800000, guid: 4f062ce06a1901b4685c49b5ef5706c5, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: ae45cd7ce1ea30643bfa9ee3ed0c45ae, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 88687200f122dd3468e6d640e34adff7, type: 3}
   - trackingData:
       imageName: Hisense 70
       texture: {fileID: 2800000, guid: 85d3c007c316082409988fd5b3cf79f6, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: c4e47f6e0c6588549a192c7287164826, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: ae1c34e35c19ae9499cca8e07616e3fb, type: 3}
   - trackingData:
       imageName: Hisense 75
       texture: {fileID: 2800000, guid: 6676e4556c55aaf49a8bbb569efb1423, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: e57ae245502db1143b6a3bdacf813c12, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 524a6932708b5f141894c47a3ed14a27, type: 3}
   - trackingData:
       imageName: Hisense 75 2
       texture: {fileID: 2800000, guid: 1bf6e967ecdf1754b976d5096e3c9419, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 4e97b14c632468a4d8e7b92289e65077, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 486f3754b72507e448b8733eaa41445d, type: 3}
   - trackingData:
       imageName: Hisense 75 3
       texture: {fileID: 2800000, guid: db90352a6ddf000438f446529931260d, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: fb9836e65092b524b922329d4a64b9b6, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: abdf8dbaeb525a840a0369fdbb34501b, type: 3}
   - trackingData:
       imageName: Hisense 85
       texture: {fileID: 2800000, guid: e34063fe4f1275e48bf084125a41f25a, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: a4d21d6c707c6b443a6aefeb32cb0434, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: b3d79e9d5f9c96f4cbc4b3c5a4dbf456, type: 3}
   - trackingData:
       imageName: Hisense 100
       texture: {fileID: 2800000, guid: 42cff01977e1ab948bfa511039213df5, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 94d398682a9a9ff47ac0506602f1876c, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 91254891f1695c748a26beb09a4797bf, type: 3}
   - trackingData:
       imageName: LG 32
       texture: {fileID: 2800000, guid: 9b9c3803f50adf546a2fb2b38fa551d8, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 883eb1c8d69983a42845243e93676ae0, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 9d67005d7018cce4faccc0423157d004, type: 3}
   - trackingData:
       imageName: LG 43
       texture: {fileID: 2800000, guid: 7de3061d9c0f3ea49ad571f41e9c0f94, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 90841155022849845be237922e8f0c6a, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: c80601c0cab481640ab79128e68061d3, type: 3}
   - trackingData:
       imageName: LG 43 2
       texture: {fileID: 2800000, guid: e176e51ad776162448d3e6028f47e28e, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 3db6bdbe8ba8b9a46aca45ec5724d855, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: b063a987c0f966a4aac30d37c4c1743b, type: 3}
   - trackingData:
       imageName: LG 50
       texture: {fileID: 2800000, guid: db7bb1d0b81df2d45bdc4e6e780f9201, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: e3e1f36e63aa8cd44832279d903d0b4d, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 902603a86d822de49acc40ddf81d2e8c, type: 3}
   - trackingData:
       imageName: LG 50 2
       texture: {fileID: 2800000, guid: d2026ce2b36abfe47900cb38157b59e2, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 1aa70caa8bb9b2843b5fe5f0a15c69c7, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 0a0a76c55fdc94c40aa76b2d3efb0974, type: 3}
   - trackingData:
       imageName: LG 55
       texture: {fileID: 2800000, guid: be9769f93f655a943bd5b24e4a080f93, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: e0040a393ee8cc046bd9b47cb4ea40c6, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: d46d32075dd86a049bb6e1046cae9986, type: 3}
   - trackingData:
       imageName: LG 55 2
       texture: {fileID: 2800000, guid: 2fe17dbfeab88d543b3e704e01550cb0, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: e1fd1376ed7efeb408bbecbc7773239f, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 0ad15ea10a5284144a111083abc88121, type: 3}
   - trackingData:
       imageName: LG 65
       texture: {fileID: 2800000, guid: 2e916ac834cd7da46a5130e26a8dbf7b, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 3469214977c8f3e4eba35a921c7163bf, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 38dfe8cdcd03562489f11bb84452d88e, type: 3}
   - trackingData:
       imageName: LG 75
       texture: {fileID: 2800000, guid: 70dca8d4594b29b45bc483d2d254ec86, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: 4a9790b1dbcaf5b4dbfa93d292adde4f, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: 3905c9c4710d3ec4f80b8b8755d89fcb, type: 3}
   - trackingData:
       imageName: LG OLED 48
       texture: {fileID: 2800000, guid: 3a67fd6ed9baa8f408ab889e944759e8, type: 3}
       width: 0.1
       anchorImage: 0
       levelWithPlane: 0
-    prefab: {fileID: 5538433988997652978, guid: b17246b1fb6e2be409883ad731d967ab, type: 3}
+    prefab: {fileID: 5538433988997652978, guid: fec17f9a4ec81364c9bf430e0627c7b6, type: 3}
+  - trackingData:
+      imageName: Samsung The Frame LS03B
+      texture: {fileID: 2800000, guid: b7451d6aae5ea73499e9343f6720d2bb, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 7d6027990c0bc1b49b211a8c0dad3b4a, type: 3}
+  - trackingData:
+      imageName: Hisense 65 QLED
+      texture: {fileID: 2800000, guid: bef507ca6d50fcf4bbe3074ab4bb1bcb, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 187cbe32b3af30343a78c99e9f7f6e9a, type: 3}
+  - trackingData:
+      imageName: ASUS TUF LAPTOP
+      texture: {fileID: 2800000, guid: 1be7fcb8b8f8ab54ca9e0731723176b5, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 13a9fc541267bb649b413c817bf7b726, type: 3}
+  - trackingData:
+      imageName: ASUS B VIVOBOOK 15
+      texture: {fileID: 2800000, guid: 4596b6430657ecc4f8880ed47fb20a62, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: ba6176f76becdbc439dd098fa3325117, type: 3}
+  - trackingData:
+      imageName: ASUS B VIVOBOOK 15X
+      texture: {fileID: 2800000, guid: 02c50b97fe561d34cbb872f53038d2d5, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 9827185292e5e1343822622eeac05c18, type: 3}
+  - trackingData:
+      imageName: ASUS VIVOBOOK 15X
+      texture: {fileID: 2800000, guid: b5af5844be883aa469e88c7370c059ba, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: e23763efd80bb7d49ad67d1aeb81fe67, type: 3}
+  - trackingData:
+      imageName: ASUS ZENBOOK
+      texture: {fileID: 2800000, guid: 4720ad186d0133049be61daff30a049a, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 729a2b9dd5c0c8a43b38f13f24f8b630, type: 3}
+  - trackingData:
+      imageName: Acer Aspire 3 Intel i3
+      texture: {fileID: 2800000, guid: 90c4c75130bbfc2469b48f0a43a6a75d, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 012c0b4891d52f7488de6e10b5a62b25, type: 3}
+  - trackingData:
+      imageName: Acer Aspire 3 Ryzen
+      texture: {fileID: 2800000, guid: 90379a4f293d9fa4b894b479bd475261, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 37b9b111d8b392841ab5d51483f9dd98, type: 3}
+  - trackingData:
+      imageName: Lenovo IP 1 15ALC7
+      texture: {fileID: 2800000, guid: c70855529a7368b4f942fa8612ad8d6d, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 414435b0ee977c649ad82951dd934c9b, type: 3}
+  - trackingData:
+      imageName: Lenovo Slim3
+      texture: {fileID: 2800000, guid: b4818a5d69ffaa3419de5f8665316509, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 8c477e94773590e459d7a61dc1ea7f98, type: 3}
+  - trackingData:
+      imageName: TV Nisato
+      texture: {fileID: 2800000, guid: 6fb85c11ba5dd1d478cfa773b10d7528, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 591e925e6295bd040a5e29655d31b7e3, type: 3}
+  - trackingData:
+      imageName: QLED 55
+      texture: {fileID: 2800000, guid: b706080a54bd70142a686a682d496d73, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 9f0143812aa3b0e4191ce687a1a3eff6, type: 3}
+  - trackingData:
+      imageName: 98 4K
+      texture: {fileID: 2800000, guid: 3a66a615cf696984bb4f3586abde88b1, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 8065a4e68c4302e45b5edab253ffc970, type: 3}
+  - trackingData:
+      imageName: CRYS 55
+      texture: {fileID: 2800000, guid: 4f714fa18c203ee40a4c501ee60a6121, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 3f19ae3628e258e4fb9cbded6feac22c, type: 3}
+  - trackingData:
+      imageName: CRYS 75
+      texture: {fileID: 2800000, guid: 09e2890c9887a034bb2b85beb1966894, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 406792f9807577c4cb60a3c8ebe3ac4d, type: 3}
+  - trackingData:
+      imageName: Neo QLED 43
+      texture: {fileID: 2800000, guid: f13382b8bea835a42b401cb43f425c7e, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 81b9676ec72c77c42b90f69bacee0fa9, type: 3}
+  - trackingData:
+      imageName: CRYS 43
+      texture: {fileID: 2800000, guid: 80b4e467252a8dd4c8b25619d1f1b66e, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 0f9f5e0c857e3134f9603eddd08414c0, type: 3}
+  - trackingData:
+      imageName: 75 qled
+      texture: {fileID: 2800000, guid: 39e63504b993527418afe480c9f92ec3, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 0496678cd417ef347abdb3ff79f2072f, type: 3}
+  - trackingData:
+      imageName: 98 qled
+      texture: {fileID: 2800000, guid: 1bff706843a64ed4d801f7253168a01e, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 2c9b994e2951daf4fba646ae18d76ad7, type: 3}
+  - trackingData:
+      imageName: 50 qled
+      texture: {fileID: 2800000, guid: b706080a54bd70142a686a682d496d73, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: c26d6c99f4a39bd438b844c2807a2a6a, type: 3}
+  - trackingData:
+      imageName: 75 qled alt
+      texture: {fileID: 2800000, guid: c35d31b83cf032a41a53f10e29583a3a, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 6657b98e2875d274387e5cbb7258d2bb, type: 3}
+  - trackingData:
+      imageName: Samsung LED 32 Smart Tv
+      texture: {fileID: 2800000, guid: 54decce662f922f4397472f0ae093465, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 1c3c3fb9a8b8add4685124cf156cfa37, type: 3}
+  - trackingData:
+      imageName: Samsung Neo qled 50
+      texture: {fileID: 2800000, guid: af97de1c59f8bc9458cb2b15e52c89ae, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: f40a6f46874572e4bbc09a6412cc5033, type: 3}
+  - trackingData:
+      imageName: Samsung The frame 50 ls03b 2
+      texture: {fileID: 2800000, guid: ee49cf2e93eb78547a1ebdef884c4412, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 82ae47c078c973049a02291642636554, type: 3}
+  - trackingData:
+      imageName: Samsung The frame 55 4K
+      texture: {fileID: 2800000, guid: e06126bcc24674241b78c381e65f03c2, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 498c0b51decf6814b97a80e1eb1007d6, type: 3}
+  - trackingData:
+      imageName: Samsung OLED 55 S90D
+      texture: {fileID: 2800000, guid: e8c59bfb0485058498aa1b2c0de36f44, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 46052ba18f4c71d42b2b8db29bf053e9, type: 3}
+  - trackingData:
+      imageName: Sony Bravia 3 75 LED
+      texture: {fileID: 2800000, guid: 9503bf374f1f7574bad8bfaffd9052fa, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: edb49147d484ff840a4d15204982df95, type: 3}
+  - trackingData:
+      imageName: Sony Bravia 8 65 OLED
+      texture: {fileID: 2800000, guid: cf6036454d9ac1440aa2080b1904f508, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: a430213c7dfd4cf49987471df22cdc7e, type: 3}
+  - trackingData:
+      imageName: TCL C655 50
+      texture: {fileID: 2800000, guid: beafcc64c258fbe46993875a0d0c4bcd, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: bab62119f03d20a41839582f3d04ab26, type: 3}
+  - trackingData:
+      imageName: TCL 50 P755 50
+      texture: {fileID: 2800000, guid: f6d23de742921cd4986a064a5b6fc949, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 7496c17b697c23e4b8cab624b0ffb40d, type: 3}
+  - trackingData:
+      imageName: TCL 65 C755
+      texture: {fileID: 2800000, guid: ee45c596d59f1a844b3a96523b8af93d, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: ecd25a5ac838e09409b950296fe32961, type: 3}
+  - trackingData:
+      imageName: TCL 65 P755
+      texture: {fileID: 2800000, guid: 322135c499b01e0469c24f546bf74c50, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 43e780a11ff0a04488ffe03c27a15963, type: 3}
+  - trackingData:
+      imageName: TCL 55 C655
+      texture: {fileID: 2800000, guid: b3f9f2c804dc93649852c4c5062e296b, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 6e86a533d46ac244b837e0af4aad7242, type: 3}
+  - trackingData:
+      imageName: TCL 85 C655
+      texture: {fileID: 2800000, guid: 94b4fe9776827224a87a755452500f71, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 022a69766dd884d4baaad55be8a13345, type: 3}
+  - trackingData:
+      imageName: TCL 65 C655
+      texture: {fileID: 2800000, guid: bc92622d6aec8f14494a88bdb1e07478, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 38ed5e94486fdde43a8ce36d245b5c26, type: 3}
+  - trackingData:
+      imageName: TCL 43 S5400A
+      texture: {fileID: 2800000, guid: 32869b1d66da98540b3f1ed45d488bae, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 9383b8e7fa2c31246abf55a947013cd4, type: 3}
+  - trackingData:
+      imageName: TCL 98 C655
+      texture: {fileID: 2800000, guid: b0aba30a28d47f84496a8bd16f612765, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 8b8b5b5cc77da0d4fad472d5b4f65a30, type: 3}
+  - trackingData:
+      imageName: Xiaomi TV LED A PRO
+      texture: {fileID: 2800000, guid: d3ed5e306a4081e4b9516d206aa0da0f, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 82b4d4190f7bc7943a12ff6af710c554, type: 3}
+  - trackingData:
+      imageName: Amazon JKindle
+      texture: {fileID: 2800000, guid: 4b8b09bc9087b4f4f9f9ad944976f7d9, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 264e7b318359ea141af7746f4272f5a9, type: 3}
+  - trackingData:
+      imageName: HP BUNDLE PAVILION 24-ca00
+      texture: {fileID: 2800000, guid: 7e732543e8588944ebacb93311f2e3e2, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: efd4bef82ac035b4bb6780c41df79e8a, type: 3}
+  - trackingData:
+      imageName: Bundle Laptop HP 15-fd0059la
+      texture: {fileID: 2800000, guid: e4adce8169dc741458d0cfaa1aaa4aef, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 529f028604afe854ca8394012a63882c, type: 3}
+  - trackingData:
+      imageName: Desktop HP All-in-One 24-cb1023la PC 23.8
+      texture: {fileID: 2800000, guid: 2a51e705e5069bc479b8da13c84fb2de, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: b12bdd3bc65216446b326397e2ea194d, type: 3}
+  - trackingData:
+      imageName: Desktop HP Pavilion 27 AiO Potencia y Estilo
+      texture: {fileID: 2800000, guid: b4d4486c3ff5bd94a94f1e1f46f0c7f4, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: b12bdd3bc65216446b326397e2ea194d, type: 3}
+  - trackingData:
+      imageName: Laptop Gaming HP OMEN 14 Potencia y Rendimiento
+      texture: {fileID: 2800000, guid: 94a6cf1e27836fb439fdbb5f2f2000e5, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: d3d93e5477dfb0b46bdbab03aecf4ba0, type: 3}
+  - trackingData:
+      imageName: Laptop Gaming Victus 15-fb2017la 15.6
+      texture: {fileID: 2800000, guid: 83494ec32d34491468ed3266bdf6e22f, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 2cf5e216ff8de114e920479dda23588a, type: 3}
+  - trackingData:
+      imageName: Laptop Gaming Victus 15-fb2026la 15.6
+      texture: {fileID: 2800000, guid: a8c830d5261377f47b4935a6c0b8691c, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 57581fe1dc810484bac1a935e8392380, type: 3}
+  - trackingData:
+      imageName: Laptop HP 14 Plateado Natural Rendimiento y Estilo
+      texture: {fileID: 2800000, guid: 3cfbd47abb528e2459732e5b9baf1861, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 8d4e5bb4d6c480c4294f4b4561943d7e, type: 3}
+  - trackingData:
+      imageName: Laptop HP 15-ef2549la
+      texture: {fileID: 2800000, guid: 21ceb78a453bbc64583ed4843fee4f37, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: f0a6297f35ce5b348afd5ebcd41206a9, type: 3}
+  - trackingData:
+      imageName: Laptop HP 15-ef2550la
+      texture: {fileID: 2800000, guid: 0759a48b5f4fcb149b2406d95b339ae9, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 4de9cd9b717be2246af7e5331f188b81, type: 3}
+  - trackingData:
+      imageName: Laptop HP 15-fc0025la
+      texture: {fileID: 2800000, guid: d7316397052fedc43bd30dd1f9a6d9ca, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: ba178da4f58c1c94db807725fd4e6325, type: 3}
+  - trackingData:
+      imageName: Laptop HP 15-fc0026la
+      texture: {fileID: 2800000, guid: d9e3a9bdde789324dae6c32aa5353fbd, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: dc60b39619e82a94eadea9edaa33d7c3, type: 3}
+  - trackingData:
+      imageName: "Laptop HP Gaming Victus 15 M\xE1xima Potencia"
+      texture: {fileID: 2800000, guid: 274e5edf6866adb46965165a1a2df669, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: c1f2a42bb98cc4e4399868fcecfb8105, type: 3}
+  - trackingData:
+      imageName: Laptop HP Victus Gaming 15-fa0022la 15.6
+      texture: {fileID: 2800000, guid: a30fbb786d3909847aef0dbeaf50d031, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: ebd69e7d8293be347b6ba3b8af4a6305, type: 3}
+  - trackingData:
+      imageName: Honor 200 5G Rosado
+      texture: {fileID: 2800000, guid: f9ab4e0a3f8c69848a51d424e2e41582, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 47344a0e690d7014abdc2dbc4d26787d, type: 3}
+  - trackingData:
+      imageName: Honor 200 5G Verde
+      texture: {fileID: 2800000, guid: 7ff5965035146e1478effdf9d42c2a4f, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: b97399e5e772ba749920b505adfd1a65, type: 3}
+  - trackingData:
+      imageName: Honor 200 Lite 5G Cyan Lake
+      texture: {fileID: 2800000, guid: 3786c6dc05290e4428af0c5cf8e0c970, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 2381c3c4f961d3d4c9745c9e3e6cf386, type: 3}
+  - trackingData:
+      imageName: Honor 200 Lite 5G Midnight Black
+      texture: {fileID: 2800000, guid: 83e3cbed11eb0fa40a8eb9fba96b7f47, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 9ccf9669281f68a40a4d33e842eb9c37, type: 3}
+  - trackingData:
+      imageName: Honor 200 Lite 5G Starry Azul
+      texture: {fileID: 2800000, guid: ccc8cb6b4db9941429023888a41c02af, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 461e79096bb81a84d8613643ff714a86, type: 3}
+  - trackingData:
+      imageName: Honor Pad 9
+      texture: {fileID: 2800000, guid: ff0ab8ca600a350498925b619c5e0a98, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 4e3a68abf332a4e4c8e922e2f8f3cb46, type: 3}
+  - trackingData:
+      imageName: Honor Pad X9 Gris
+      texture: {fileID: 2800000, guid: 29a393f05b270004a90f8d87b8988b4f, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: eaba7231379a43f45bbc996e9d5320f7, type: 3}
+  - trackingData:
+      imageName: Tablet Lenovo M10 3ra Gen 10.1
+      texture: {fileID: 2800000, guid: e835b5b7b94b54141bb1bf4c86882d02, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 4f772a0b0051cc44e80b96032ad6333c, type: 3}
+  - trackingData:
+      imageName: Tablet Lenovo Tab M9 LTE
+      texture: {fileID: 2800000, guid: b628e6f21fe62dd4fbefc91a7c47f3b9, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 867881146f83e7b4f91804607196b842, type: 3}
+  - trackingData:
+      imageName: Tablet Lenovo Tab Plus 11.5 256GB Android 14
+      texture: {fileID: 2800000, guid: fc868d3e1ea9d8c41ba8e8fbbb7afb12, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 03c63859a7529eb4d94b5dbeca280366, type: 3}
+  - trackingData:
+      imageName: iPad 10,9 Rosado
+      texture: {fileID: 2800000, guid: 003665b34dbcb8e48a85f8b1cc1ad13e, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 4f772a0b0051cc44e80b96032ad6333c, type: 3}
+  - trackingData:
+      imageName: Ipad Air 11 Wifi Purpura
+      texture: {fileID: 2800000, guid: b1cf676a16f41a445ba047edf4ef1c1a, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: a1dab8fb7277f4a4fb44833b99dc1b40, type: 3}
+  - trackingData:
+      imageName: Ipad Pro 11 Wifi Negro Espacial
+      texture: {fileID: 2800000, guid: 26ceb5e93c3fa724f9bef15dada27aaf, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 4ef59e78b5b148f489baac75bc0fc2ca, type: 3}
+  - trackingData:
+      imageName: Ipad Pro 11 Wifi Negro Espacial
+      texture: {fileID: 2800000, guid: c22f9ebffa55c8c44be75f32717f5cbd, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 3cc2d64a69d98944c8eabce3bad73f3f, type: 3}
+  - trackingData:
+      imageName: iPad Retina Rosado
+      texture: {fileID: 2800000, guid: ec2c485699b0621418785c228eb46613, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: d704d1ad6581ca7448d31804deddb62b, type: 3}
+  - trackingData:
+      imageName: iPhone 11 128GB Negro
+      texture: {fileID: 2800000, guid: 85d41df34e6b395499e07580f531d814, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 1e48a261a8350704db6f184fe0103323, type: 3}
+  - trackingData:
+      imageName: iPhone 15 Pro 128GB Blanco Titanio
+      texture: {fileID: 2800000, guid: 8cd083a26bdaa594a9bd38f8001c3408, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: e98d184dfeebd924f82f96711393c666, type: 3}
+  - trackingData:
+      imageName: Honor 200 Pro Negro
+      texture: {fileID: 2800000, guid: 588845bfacb9fbb43a50cc0a783ebbc1, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 8142a947f2fd2554180f54f947d3bd96, type: 3}
+  - trackingData:
+      imageName: Honor X5 Plus Azul Lago
+      texture: {fileID: 2800000, guid: d9bb22cc740717240aaec1c94b8afdd0, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 90e055c0eb386e544b1ac45707c8ffc3, type: 3}
+  - trackingData:
+      imageName: Honor X6B Cyan
+      texture: {fileID: 2800000, guid: 92c71a000c483cb4d83a701aece1e8d8, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 131b65a8b19bbc2428f4084bff2cd112, type: 3}
+  - trackingData:
+      imageName: Honor X6B Morado
+      texture: {fileID: 2800000, guid: 9f6ca449743c53c448d238e54f908f3e, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 27197151f1961a244b6bcf7fa5f8a4f6, type: 3}
+  - trackingData:
+      imageName: Honor X6B Verde 1
+      texture: {fileID: 2800000, guid: 58f50598b2a60d24ab061cd85107ded1, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 65a0139c60b0a4f43a800183e04b6d2a, type: 3}
+  - trackingData:
+      imageName: Honor X6B Verde 2
+      texture: {fileID: 2800000, guid: 9bf6cec180c3ed346bb7a4f27ea62b84, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 88a16954002061642bb8ed2dc0e27308, type: 3}
+  - trackingData:
+      imageName: Honor X7B Verde Esmeralda
+      texture: {fileID: 2800000, guid: 882b7db39cad83745b4b214000e9dc6d, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: a712c83fcb4d1e54b859eafa22386c24, type: 3}
+  - trackingData:
+      imageName: Magic 6 Lite Android 13
+      texture: {fileID: 2800000, guid: ae2e431d9651e9f40ab10301cf869e7a, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: e6188846d1b45b641b7a4a87023cd0cc, type: 3}
+  - trackingData:
+      imageName: Magic 6 Lite Android 13 Naranja
+      texture: {fileID: 2800000, guid: d85f512147a87c74a98fe6309aa63b6a, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: b15f379f120bb254eb7b523971084369, type: 3}
+  - trackingData:
+      imageName: Magic 6 Lite Android 13 Verde
+      texture: {fileID: 2800000, guid: d3b8085c9dbb56d46b9b94d642356ac5, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 970a95534d51bd449a7d66c74fcfb3f7, type: 3}
+  - trackingData:
+      imageName: Apple MacBook Pro Retina MRX63EA
+      texture: {fileID: 2800000, guid: a4c8b363a1fbfd445a5a69c21572505e, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 3a99fbbe45ac1bd4daeeaa85eec3a99b, type: 3}
+  - trackingData:
+      imageName: IPhone 15 Pro 128GB Negro Titanio
+      texture: {fileID: 2800000, guid: d35ba463aebd540458bbffa84c0110f1, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 01a13603d7c63d64aa399b6433185b5f, type: 3}
+  - trackingData:
+      imageName: IPhone 15 Pro 128GB Titanio Natural
+      texture: {fileID: 2800000, guid: 2dd681b186906c24195d220a3fda8a7e, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 427158ba683c7b64e950f97c77e8fcc4, type: 3}
+  - trackingData:
+      imageName: IPhone 15 Pro 256GB Titanio Natural
+      texture: {fileID: 2800000, guid: d49f802ad5cd72c458fc2d2133c6f08b, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 07bca926fa9143c4cb8333bdb2afd305, type: 3}
+  - trackingData:
+      imageName: IPhone 15 Pro 256GB Titanio Natural
+      texture: {fileID: 2800000, guid: f87b5b95dc4d0a442900dbfa11d2b49c, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: af0a831be2c05f24fbc359267d47a902, type: 3}
+  - trackingData:
+      imageName: IPhone 15 Pro 256GB Titanio Natural
+      texture: {fileID: 2800000, guid: 58b443f10c122494abef31fc5d0fb3c7, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 91050e389402b4f4d8714b22c325e4ea, type: 3}
+  - trackingData:
+      imageName: IPhone 15 Pro Max 256GB Blanco Titanio
+      texture: {fileID: 2800000, guid: ab91c99aa29ab394c83db3a9a73be80a, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 781de397a92e7054291a6b455574619a, type: 3}
+  - trackingData:
+      imageName: IPhone 15 Pro Max 512GB Negro Titanio
+      texture: {fileID: 2800000, guid: 9db7811670ef6b745831b3c9d77134cd, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 443156e1086786945b91bfa2808b6fbe, type: 3}
+  - trackingData:
+      imageName: IPhone 15 Pro 256GB Titanio Natural
+      texture: {fileID: 2800000, guid: 1daa02c61b39f0b49b1f92ed1d38ea17, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 65261c99411310d4cbc3c307571458e4, type: 3}
+  - trackingData:
+      imageName: MacBook Air 13'' con Apple Chip M3
+      texture: {fileID: 2800000, guid: cc4a0b9a26ff2064581fc89e5b891288, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 5c95e99e5bc531948ae238863aaf3361, type: 3}
+  - trackingData:
+      imageName: Galaxy S24 Ultra 256 GB 12 GB RAM Android 14 Pantalla 6.8
+      texture: {fileID: 2800000, guid: 5e72928f6c536494896ca5cbfd4b2900, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: 51e320fdf9b216841a5a0c5a9e841653, type: 3}
+  - trackingData:
+      imageName: Galaxy Z Fold 6 512GB 12 GB Ram Silver shadow
+      texture: {fileID: 2800000, guid: d0124697c9b1ec643bd7d112126ac025, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: b37b5692a7bd8264899c98b07c4154cb, type: 3}
+  - trackingData:
+      imageName: Samsung Galaxy S24 FE Gris 256GB, Pantalla 6,74700 mAh
+      texture: {fileID: 2800000, guid: 648e2e7f9592bd34398202a233fe2bf2, type: 3}
+      width: 0.1
+      anchorImage: 0
+      levelWithPlane: 0
+    prefab: {fileID: 5538433988997652978, guid: bd034dce01ffe5c4392f3116a536d869, type: 3}
   bundleImages: []
+--- !u!1 &6874203833724185433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5456389007832549121}
+  m_Layer: 0
+  m_Name: '--------------------------------------- '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5456389007832549121
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6874203833724185433}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 793602443626638220}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8310191829174572593
 GameObject:
   m_ObjectHideFlags: 0
